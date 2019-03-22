@@ -111,7 +111,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{6B3029E3-CDF4-4610-A029-99518122C7D6}</ProjectGuid>
+    <ProjectGuid>{BB7B0577-06C2-46FA-9227-4923638364CD}</ProjectGuid>
     <Keyword>MakeFileProj</Keyword>
     <RootNamespace>TrainJam</RootNamespace>
     <PlatformToolset>v141</PlatformToolset>
@@ -505,12 +505,12 @@
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEngine.ini"/>
     <None Include="..\..\Config\DefaultGame.ini"/>
-    <ClCompile Include="..\..\Source\TrainJam\LevelManagerScript.cpp"/>
-    <ClInclude Include="..\..\Source\TrainJam\LevelManagerScript.h"/>
-    <ClCompile Include="..\..\Source\TrainJam\PlayerCameraController.cpp"/>
-    <ClInclude Include="..\..\Source\TrainJam\PlayerCameraController.h"/>
-    <ClCompile Include="..\..\Source\TrainJam\PlayerInputManager.cpp"/>
-    <ClInclude Include="..\..\Source\TrainJam\PlayerInputManager.h"/>
+    <ClCompile Include="..\..\Source\TrainJam\BackgroundDecorationScript.cpp"/>
+    <ClInclude Include="..\..\Source\TrainJam\BackgroundDecorationScript.h"/>
+    <ClCompile Include="..\..\Source\TrainJam\PlayerCameraScript.cpp"/>
+    <ClInclude Include="..\..\Source\TrainJam\PlayerCameraScript.h"/>
+    <ClCompile Include="..\..\Source\TrainJam\SceneController.cpp"/>
+    <ClInclude Include="..\..\Source\TrainJam\SceneController.h"/>
     <None Include="..\..\Source\TrainJam\TrainJam.Build.cs"/>
     <ClCompile Include="..\..\Source\TrainJam\TrainJam.cpp"/>
     <ClInclude Include="..\..\Source\TrainJam\TrainJam.h"/>

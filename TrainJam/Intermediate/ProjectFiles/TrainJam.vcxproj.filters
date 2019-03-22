@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\TrainJam.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{D39D5203-AA5F-411D-B672-F4230F536A2B}</UniqueIdentifier>
+      <UniqueIdentifier>{90F99045-0786-4503-B92A-DA90965B5B4F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\TrainJam.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{8AB5C89F-2870-43F3-A627-2B600CB81C68}</UniqueIdentifier>
+      <UniqueIdentifier>{C359E7EB-0CC5-4DD8-A534-4B8D76C096A7}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,24 +24,24 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\TrainJam">
-      <UniqueIdentifier>{172DEBA8-3ADA-4447-A0C9-CB458821CC5E}</UniqueIdentifier>
+      <UniqueIdentifier>{11E811EB-8FE2-4B1B-8F29-ACCF23EEE3FC}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\Source\TrainJam\LevelManagerScript.cpp">
+    <ClCompile Include="..\..\Source\TrainJam\BackgroundDecorationScript.cpp">
       <Filter>Source\TrainJam</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\TrainJam\LevelManagerScript.h">
+    <ClInclude Include="..\..\Source\TrainJam\BackgroundDecorationScript.h">
       <Filter>Source\TrainJam</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\Source\TrainJam\PlayerCameraController.cpp">
+    <ClCompile Include="..\..\Source\TrainJam\PlayerCameraScript.cpp">
       <Filter>Source\TrainJam</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\TrainJam\PlayerCameraController.h">
+    <ClInclude Include="..\..\Source\TrainJam\PlayerCameraScript.h">
       <Filter>Source\TrainJam</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\Source\TrainJam\PlayerInputManager.cpp">
+    <ClCompile Include="..\..\Source\TrainJam\SceneController.cpp">
       <Filter>Source\TrainJam</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\TrainJam\PlayerInputManager.h">
+    <ClInclude Include="..\..\Source\TrainJam\SceneController.h">
       <Filter>Source\TrainJam</Filter>
     </ClInclude>
     <None Include="..\..\Source\TrainJam\TrainJam.Build.cs">

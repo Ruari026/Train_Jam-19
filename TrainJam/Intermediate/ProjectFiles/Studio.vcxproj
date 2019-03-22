@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{4BA43444-5910-483C-8483-3A165E4490D9}</ProjectGuid>
+    <ProjectGuid>{252AD17B-97A1-4045-BBC0-288FE3DDF60B}</ProjectGuid>
     <Keyword>MakeFileProj</Keyword>
     <RootNamespace>Studio</RootNamespace>
     <PlatformToolset>v141</PlatformToolset>

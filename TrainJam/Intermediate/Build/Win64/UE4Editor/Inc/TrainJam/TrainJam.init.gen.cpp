@@ -19,8 +19,8 @@ void EmptyLinkFunctionForGeneratedCodeTrainJam_init() {}
 			static const UE4CodeGen_Private::FPackageParams PackageParams = {
 				"/Script/TrainJam",
 				PKG_CompiledIn | 0x00000000,
-				0x289818B1,
-				0xE954E7CA,
+				0xDA42284E,
+				0x4EAC53B4,
 				nullptr, 0,
 				METADATA_PARAMS(nullptr, 0)
 			};
