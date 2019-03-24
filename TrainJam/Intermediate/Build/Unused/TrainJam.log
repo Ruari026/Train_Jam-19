@@ -1,18 +1,7 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\ruari\Documents\GitHub\Train_Jam-19).
-  Creating makefile for hot reloading TrainJamEditor (source directory changed)
+  Creating makefile for hot reloading TrainJamEditor (modules to compile have changed)
   Compiling game modules for hot reload
   Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Parsing headers for TrainJamEditor
-    Running UnrealHeaderTool "C:\Users\ruari\Documents\GitHub\Train_Jam-19\TrainJam\TrainJam.uproject" "C:\Users\ruari\Documents\GitHub\Train_Jam-19\TrainJam\Intermediate\Build\Win64\TrainJamEditor\Development\TrainJamEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-  Reflection code generated for TrainJamEditor in 11.2694137 seconds
-  Building 6 actions with 12 processes...
-    [1/6] BackgroundDecorationScript.cpp
-    [2/6] SceneController.cpp
-    [3/6] SceneController.gen.cpp
-    [4/6] BackgroundDecorationScript.gen.cpp
-    [5/6] UE4Editor-TrainJam-5667.lib
-       Creating library C:\Users\ruari\Documents\GitHub\Train_Jam-19\TrainJam\Intermediate\Build\Win64\UE4Editor\Development\TrainJam\UE4Editor-TrainJam-5667.lib and object C:\Users\ruari\Documents\GitHub\Train_Jam-19\TrainJam\Intermediate\Build\Win64\UE4Editor\Development\TrainJam\UE4Editor-TrainJam-5667.exp
-    [6/6] UE4Editor-TrainJam-5667.dll
-       Creating library C:\Users\ruari\Documents\GitHub\Train_Jam-19\TrainJam\Intermediate\Build\Win64\UE4Editor\Development\TrainJam\UE4Editor-TrainJam-5667.suppressed.lib and object C:\Users\ruari\Documents\GitHub\Train_Jam-19\TrainJam\Intermediate\Build\Win64\UE4Editor\Development\TrainJam\UE4Editor-TrainJam-5667.suppressed.exp
+  Target is up to date
   Deploying TrainJamEditor Win64 Development...
-  Total build time: 35.01 seconds (Parallel executor: 15.84 seconds)
+  Total build time: 8.65 seconds (NoActionsToExecute executor: 0.00 seconds)

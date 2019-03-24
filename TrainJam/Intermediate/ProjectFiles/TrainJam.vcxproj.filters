@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\TrainJam.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{90F99045-0786-4503-B92A-DA90965B5B4F}</UniqueIdentifier>
+      <UniqueIdentifier>{3AF54C96-515C-4D5C-8F94-B6984BC566B4}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\TrainJam.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{C359E7EB-0CC5-4DD8-A534-4B8D76C096A7}</UniqueIdentifier>
+      <UniqueIdentifier>{EDABBAD4-9BD5-4E6B-BEDA-FDC8B70E6F88}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +24,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\TrainJam">
-      <UniqueIdentifier>{11E811EB-8FE2-4B1B-8F29-ACCF23EEE3FC}</UniqueIdentifier>
+      <UniqueIdentifier>{422F2B24-0E44-4F4F-9DD7-561904FCF287}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\TrainJam\BackgroundDecorationScript.cpp">
       <Filter>Source\TrainJam</Filter>
@@ -32,10 +32,10 @@
     <ClInclude Include="..\..\Source\TrainJam\BackgroundDecorationScript.h">
       <Filter>Source\TrainJam</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\Source\TrainJam\PlayerCameraScript.cpp">
+    <ClCompile Include="..\..\Source\TrainJam\PlayerRhythmController.cpp">
       <Filter>Source\TrainJam</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\TrainJam\PlayerCameraScript.h">
+    <ClInclude Include="..\..\Source\TrainJam\PlayerRhythmController.h">
       <Filter>Source\TrainJam</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\TrainJam\SceneController.cpp">
@@ -57,6 +57,12 @@
       <Filter>Source\TrainJam</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\TrainJam\TrainJamGameModeBase.h">
+      <Filter>Source\TrainJam</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TrainJam\TrainMovementController.cpp">
+      <Filter>Source\TrainJam</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TrainJam\TrainMovementController.h">
       <Filter>Source\TrainJam</Filter>
     </ClInclude>
   </ItemGroup>

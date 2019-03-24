@@ -1,0 +1,1278 @@
+﻿Log file open, 03/23/19 01:59:23
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TrainJam
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.449887
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogStreaming: Display: Took  0.118s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-5820K CPU @ 3.30GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.03.23-01.59.24:056][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.03.23-01.59.24:056][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.03.23-01.59.24:056][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/Config/Windows/Engine.ini]
+[2019.03.23-01.59.24:056][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.03.23-01.59.24:056][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/Config/Windows/Engine.ini]
+[2019.03.23-01.59.24:056][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/Config/Windows/Engine.ini]
+[2019.03.23-01.59.24:056][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.03.23-01.59.24:056][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.03.23-01.59.24:056][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.03.23-01.59.24:056][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.03.23-01.59.24:056][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.03.23-01.59.24:056][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.03.23-01.59.24:056][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.03.23-01.59.24:056][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.03.23-01.59.24:056][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.03.23-01.59.24:056][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.03.23-01.59.24:056][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.03.23-01.59.24:056][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.03.23-01.59.24:056][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.03.23-01.59.24:056][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/Config/Windows/Engine.ini]
+[2019.03.23-01.59.24:056][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.03.23-01.59.24:056][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.03.23-01.59.24:056][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.03.23-01.59.24:056][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.03.23-01.59.24:056][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.03.23-01.59.24:056][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.03.23-01.59.24:056][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.03.23-01.59.24:056][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.03.23-01.59.24:056][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.03.23-01.59.24:056][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.03.23-01.59.24:056][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.03.23-01.59.24:056][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.03.23-01.59.24:056][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.03.23-01.59.24:056][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.03.23-01.59.24:056][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/Config/Windows/Engine.ini]
+[2019.03.23-01.59.24:056][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/Config/Windows/Engine.ini]
+[2019.03.23-01.59.24:059][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/Config/Windows/Scalability.ini]
+[2019.03.23-01.59.24:059][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.23-01.59.24:059][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.23-01.59.24:059][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/Config/Windows/Scalability.ini]
+[2019.03.23-01.59.24:059][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.23-01.59.24:059][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/Config/Windows/Scalability.ini]
+[2019.03.23-01.59.24:059][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.23-01.59.24:059][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.23-01.59.24:059][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.23-01.59.24:059][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.23-01.59.24:059][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.23-01.59.24:059][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.23-01.59.24:059][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.23-01.59.24:059][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.23-01.59.24:059][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.23-01.59.24:059][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.23-01.59.24:059][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.23-01.59.24:059][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.23-01.59.24:059][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.23-01.59.24:059][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.23-01.59.24:059][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.23-01.59.24:059][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.23-01.59.24:059][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/Config/Windows/Scalability.ini]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/Config/Windows/Scalability.ini]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/Config/Windows/Scalability.ini]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/Config/Windows/Scalability.ini]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.23-01.59.24:060][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.23-01.59.24:060][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.23-01.59.24:060][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.23-01.59.24:073][  0]LogHAL: Display: Platform has ~ 24 GB [25587376128 / 34359738368 / 24], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.03.23-01.59.24:073][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.23-01.59.24:073][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/Config/Windows/Scalability.ini]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/Config/Windows/Scalability.ini]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/Config/Windows/Scalability.ini]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/Config/Windows/Scalability.ini]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/Config/Windows/Scalability.ini]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.23-01.59.24:073][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/Config/Windows/Scalability.ini]
+[2019.03.23-01.59.24:073][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.23-01.59.24:074][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.23-01.59.24:074][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.23-01.59.24:074][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.23-01.59.24:074][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.23-01.59.24:074][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.23-01.59.24:074][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.23-01.59.24:074][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.23-01.59.24:074][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.23-01.59.24:074][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.23-01.59.24:074][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.23-01.59.24:074][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.23-01.59.24:074][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.23-01.59.24:074][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/Config/Windows/Scalability.ini]
+[2019.03.23-01.59.24:074][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.23-01.59.24:074][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.23-01.59.24:074][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.03.23-01.59.24:074][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.03.23-01.59.24:074][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/Config/Windows/Engine.ini]
+[2019.03.23-01.59.24:074][  0]LogInit: Computer: ZALMAN-1080
+[2019.03.23-01.59.24:074][  0]LogInit: User: ruari
+[2019.03.23-01.59.24:074][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.03.23-01.59.24:074][  0]LogInit: High frequency timer resolution =3.222653 MHz
+[2019.03.23-01.59.24:074][  0]LogMemory: Memory total: Physical=23.8GB (24GB approx)
+[2019.03.23-01.59.24:074][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.23-01.59.24:074][  0]LogMemory: Process Physical Memory: 102.80 MB used, 102.80 MB peak
+[2019.03.23-01.59.24:074][  0]LogMemory: Process Virtual Memory: 86.45 MB used, 86.45 MB peak
+[2019.03.23-01.59.24:074][  0]LogMemory: Physical Memory: 7654.06 MB used,  16747.96 MB free, 24402.02 MB total
+[2019.03.23-01.59.24:074][  0]LogMemory: Virtual Memory: 4663.55 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.03.23-01.59.24:105][  0]LogInit: Using OS detected language (en-US).
+[2019.03.23-01.59.24:105][  0]LogInit: Using OS detected locale (en-GB).
+[2019.03.23-01.59.24:106][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.03.23-01.59.24:526][  0]LogStreaming: Display: Took  0.420s to InitEngineTextLocalization.
+[2019.03.23-01.59.24:526][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.23-01.59.24:566][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.23-01.59.24:566][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.23-01.59.24:800][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.23-01.59.24:862][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2019.03.23-01.59.24:862][  0]LogD3D11RHI:       8086/0/12201 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.03.23-01.59.24:865][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.23-01.59.24:865][  0]LogD3D11RHI:       0/0/12201 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.23-01.59.24:865][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.23-01.59.24:876][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.23-01.59.24:876][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2019.03.23-01.59.24:876][  0]LogWindows: EnumDisplayDevices:
+[2019.03.23-01.59.24:876][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2019.03.23-01.59.24:877][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.03.23-01.59.24:877][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.03.23-01.59.24:878][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.03.23-01.59.24:879][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.03.23-01.59.24:879][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2019.03.23-01.59.24:879][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2019.03.23-01.59.24:879][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2019.03.23-01.59.24:879][  0]LogRHI: Texture pool is 5660 MB (70% of 8086 MB)
+[2019.03.23-01.59.24:916][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.23-01.59.24:928][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.03.23-01.59.25:426][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.23-01.59.25:448][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.23-01.59.25:465][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.23-01.59.25:482][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.23-01.59.25:499][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.23-01.59.25:520][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.23-01.59.25:537][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.23-01.59.25:553][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.23-01.59.25:563][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.23-01.59.25:645][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.23-01.59.25:645][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.23-01.59.25:645][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.23-01.59.25:645][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.23-01.59.25:645][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.23-01.59.25:645][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.23-01.59.25:645][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.23-01.59.25:645][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.23-01.59.25:645][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.23-01.59.25:645][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.23-01.59.25:645][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.23-01.59.25:645][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.23-01.59.25:645][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.23-01.59.25:645][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.23-01.59.25:645][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.23-01.59.25:645][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.23-01.59.25:645][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.23-01.59.25:645][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.23-01.59.25:647][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.23-01.59.25:713][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.23-01.59.25:713][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.23-01.59.25:738][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.23-01.59.25:738][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.23-01.59.25:751][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.23-01.59.25:764][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.23-01.59.25:778][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.23-01.59.25:792][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.23-01.59.25:842][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.23-01.59.25:842][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.23-01.59.25:843][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.23-01.59.25:945][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Intermediate/Shaders/WorkingDirectory/24544/).
+[2019.03.23-01.59.25:945][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ruari/AppData/Local/Temp/UnrealShaderWorkingDir/F65148D240EF7A48072EA7BEB0109423/'.
+[2019.03.23-01.59.25:949][  0]LogXGEController: Cleaning working directory: C:/Users/ruari/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.03.23-01.59.25:950][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.23-01.59.25:950][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.23-01.59.25:950][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.23-01.59.26:532][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.23-01.59.26:617][  0]LogDerivedDataCache: Loaded boot cache 0.09s 71MB C:/Users/ruari/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.23-01.59.26:617][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ruari/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.03.23-01.59.26:617][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.23-01.59.26:617][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.23-01.59.26:617][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.23-01.59.26:617][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.23-01.59.26:635][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.23-01.59.26:639][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2019.03.23-01.59.26:651][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ruari/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.23-01.59.26:651][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.23-01.59.26:651][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.23-01.59.26:674][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.23-01.59.26:676][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.23-01.59.26:677][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.23-01.59.26:775][  0]LogAssetRegistry: FAssetRegistry took 0.0343 seconds to start up
+[2019.03.23-01.59.27:137][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.23-01.59.27:310][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.23-01.59.27:317][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.23-01.59.27:317][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.23-01.59.27:317][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.23-01.59.27:318][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.23-01.59.27:331][  0]LogNetVersion: TrainJam 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1924494)
+[2019.03.23-01.59.27:881][  0]LogPackageLocalizationCache: Processed 13 localized package path(s) for 2 prioritized culture(s) in 0.096312 seconds
+[2019.03.23-01.59.27:885][  0]LogUObjectArray: 39550 objects as part of root set at end of initial load.
+[2019.03.23-01.59.27:885][  0]LogUObjectAllocator: 6877120 out of 0 bytes used by permanent object pool.
+[2019.03.23-01.59.27:885][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.23-01.59.28:945][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.23-01.59.28:959][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.23-01.59.29:748][  0]SourceControl: Source control is disabled
+[2019.03.23-01.59.29:749][  0]SourceControl: Source control is disabled
+[2019.03.23-01.59.29:751][  0]SourceControl: Source control is disabled
+[2019.03.23-01.59.29:752][  0]SourceControl: Source control is disabled
+[2019.03.23-01.59.29:931][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.23-01.59.30:130][  0]LogOcInput: OculusInput pre-init called
+[2019.03.23-01.59.31:658][  0]LogEngine: Initializing Engine...
+[2019.03.23-01.59.31:660][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.23-01.59.31:660][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.23-01.59.31:660][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.23-01.59.31:660][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.23-01.59.31:913][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.23-01.59.31:936][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.23-01.59.32:018][  0]LogInit: XAudio2 using '2369M-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.23-01.59.32:043][  0]LogInit: FAudioDevice initialized.
+[2019.03.23-01.59.32:043][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.03.23-01.59.32:201][  0]LogDerivedDataCache: Saved boot cache 0.16s 71MB C:/Users/ruari/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.23-01.59.32:227][  0]LogInit: Texture streaming: Enabled
+[2019.03.23-01.59.32:257][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.23-01.59.32:279][  0]LogInit: Transaction tracking system initialized
+[2019.03.23-01.59.32:329][  0]BlueprintLog: New page: Editor Load
+[2019.03.23-01.59.32:465][  0]LocalizationService: Localization service is disabled
+[2019.03.23-01.59.33:000][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/' took 0.01s
+[2019.03.23-01.59.33:000][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.23-01.59.33:000][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.23-01.59.33:000][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.23-01.59.33:000][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.23-01.59.33:000][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.23-01.59.33:000][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.23-01.59.33:000][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.23-01.59.34:482][  0]SourceControl: Source control is disabled
+[2019.03.23-01.59.34:482][  0]Cmd: MAP LOAD FILE="../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Scenes/MainScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.23-01.59.34:482][  0]LightingResults: New page: Lighting Build
+[2019.03.23-01.59.34:487][  0]MapCheck: New page: Map Check
+[2019.03.23-01.59.34:487][  0]LightingResults: New page: Lighting Build
+[2019.03.23-01.59.34:590][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/BP_PlayerCamera.BP_PlayerCamera_C
+[2019.03.23-01.59.34:590][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/BP_PlayerCamera.BP_PlayerCamera_C
+[2019.03.23-01.59.34:591][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/BP_PlayerCamera.BP_PlayerCamera_C
+[2019.03.23-01.59.34:591][  0]LogLinker: Warning: Unable to load Default__BP_PlayerCamera_C with outer Package /Game/Blueprints/BP_PlayerCamera because its class does not exist
+[2019.03.23-01.59.34:591][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/BP_PlayerCamera.BP_PlayerCamera_C
+[2019.03.23-01.59.34:591][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/BP_PlayerCamera.BP_PlayerCamera_C
+[2019.03.23-01.59.34:591][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/BP_PlayerCamera.BP_PlayerCamera_C
+[2019.03.23-01.59.34:591][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/BP_PlayerCamera.BP_PlayerCamera_C
+[2019.03.23-01.59.34:591][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/BP_PlayerCamera.BP_PlayerCamera_C
+[2019.03.23-01.59.34:591][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/BP_PlayerCamera.BP_PlayerCamera_C
+[2019.03.23-01.59.34:591][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/BP_PlayerCamera.BP_PlayerCamera_C
+[2019.03.23-01.59.34:592][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/BP_PlayerCamera.BP_PlayerCamera_C
+[2019.03.23-01.59.34:592][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/BP_PlayerCamera.BP_PlayerCamera_C
+[2019.03.23-01.59.34:593][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/BP_PlayerCamera.BP_PlayerCamera_C
+[2019.03.23-01.59.34:593][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/BP_PlayerCamera.BP_PlayerCamera_C
+[2019.03.23-01.59.34:596][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/BP_SceneController.BP_SceneController_C
+[2019.03.23-01.59.34:596][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/BP_SceneController.BP_SceneController_C
+[2019.03.23-01.59.34:596][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/BP_SceneController.BP_SceneController_C
+[2019.03.23-01.59.34:596][  0]LogLinker: Warning: Unable to load Default__BP_SceneController_C with outer Package /Game/Blueprints/BP_SceneController because its class does not exist
+[2019.03.23-01.59.34:597][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/BP_SceneController.BP_SceneController_C
+[2019.03.23-01.59.34:597][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/BP_SceneController.BP_SceneController_C
+[2019.03.23-01.59.34:605][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/BP_PlayerCamera.BP_PlayerCamera_C
+[2019.03.23-01.59.34:605][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/BP_SceneController.BP_SceneController_C
+[2019.03.23-01.59.34:607][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/BP_PlayerCamera.BP_PlayerCamera_C
+[2019.03.23-01.59.34:607][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/BP_SceneController.BP_SceneController_C
+[2019.03.23-01.59.34:618][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/BP_SceneController.BP_SceneController_C
+[2019.03.23-01.59.34:618][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/BP_SceneController.BP_SceneController_C
+[2019.03.23-01.59.34:619][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/BP_PlayerCamera.BP_PlayerCamera_C
+[2019.03.23-01.59.34:619][  0]LogBlueprint: Warning: FMemberReference::ResolveMember (ZoomCamera) bSelfContext == true, but no scope supplied!
+[2019.03.23-01.59.34:619][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/BP_PlayerCamera.BP_PlayerCamera_C
+[2019.03.23-01.59.34:692][  0]LogAIModule: Creating AISystem for world MainScene
+[2019.03.23-01.59.34:697][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.23-01.59.34:726][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.23-01.59.34:726][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.203ms to complete.
+[2019.03.23-01.59.34:726][  0]LogFileHelpers: Loading map 'MainScene' took 0.244
+[2019.03.23-01.59.34:834][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-01.59.34:841][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-01.59.34:848][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-01.59.34:856][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-01.59.34:868][  0]LogCollectionManager: Loaded 0 collections in 0.004421 seconds
+[2019.03.23-01.59.34:887][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/Collections/' took 0.01s
+[2019.03.23-01.59.34:887][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Developers/ruari/Collections/' took 0.00s
+[2019.03.23-01.59.34:887][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Collections/' took 0.00s
+[2019.03.23-01.59.34:887][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.03.23-01.59.34:897][  0]LogContentBrowser: Native class hierarchy populated in 0.0102 seconds. Added 2710 classes and 652 folders.
+[2019.03.23-01.59.34:909][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.03.23-01.59.34:911][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-01.59.34:912][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-01.59.34:913][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-01.59.34:913][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-01.59.34:914][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-01.59.34:914][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-01.59.34:915][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-01.59.34:915][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-01.59.34:916][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-01.59.34:916][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-01.59.34:917][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-01.59.34:918][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-01.59.34:918][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-01.59.34:919][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-01.59.34:919][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-01.59.34:920][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-01.59.34:921][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-01.59.34:921][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-01.59.34:922][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-01.59.34:922][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-01.59.34:923][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-01.59.34:924][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-01.59.34:924][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-01.59.34:925][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-01.59.34:925][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-01.59.34:926][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-01.59.34:927][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-01.59.34:927][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.23-01.59.35:014][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.03.23-01.59.35:119][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.03.23-01.59.35:119][  0]LogLoad: (Engine Initialization) Total time: 14.05 seconds
+[2019.03.23-01.59.35:119][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.23-01.59.35:129][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.23-01.59.35:130][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'UberGraphFrame': BlueprintGeneratedClass /Game/Blueprints/BP_PlayerCamera.BP_PlayerCamera_C
+[2019.03.23-01.59.35:130][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Camera_GEN_VARIABLE': BlueprintGeneratedClass /Game/Blueprints/BP_PlayerCamera.BP_PlayerCamera_C
+[2019.03.23-01.59.35:131][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ExecuteUbergraph_BP_PlayerCamera': BlueprintGeneratedClass /Game/Blueprints/BP_PlayerCamera.BP_PlayerCamera_C
+[2019.03.23-01.59.35:131][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'K2Node_InputKeyEvent_Key': Function /Game/Blueprints/BP_PlayerCamera.BP_PlayerCamera_C:ExecuteUbergraph_BP_PlayerCamera
+[2019.03.23-01.59.35:131][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'EntryPoint': Function /Game/Blueprints/BP_PlayerCamera.BP_PlayerCamera_C:ExecuteUbergraph_BP_PlayerCamera
+[2019.03.23-01.59.35:131][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'InpActEvt_SpaceBar_K2Node_InputKeyEvent_0': BlueprintGeneratedClass /Game/Blueprints/BP_PlayerCamera.BP_PlayerCamera_C
+[2019.03.23-01.59.35:131][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Key': Function /Game/Blueprints/BP_PlayerCamera.BP_PlayerCamera_C:InpActEvt_SpaceBar_K2Node_InputKeyEvent_0
+[2019.03.23-01.59.35:131][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'UserConstructionScript': BlueprintGeneratedClass /Game/Blueprints/BP_PlayerCamera.BP_PlayerCamera_C
+[2019.03.23-01.59.35:131][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'InputKeyDelegateBinding_0': BlueprintGeneratedClass /Game/Blueprints/BP_PlayerCamera.BP_PlayerCamera_C
+[2019.03.23-01.59.35:131][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Camera': BlueprintGeneratedClass /Game/Blueprints/BP_PlayerCamera.BP_PlayerCamera_C
+[2019.03.23-01.59.35:131][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BlueprintGeneratedClass /Game/Blueprints/BP_PlayerCamera.BP_PlayerCamera_C
+[2019.03.23-01.59.35:131][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot_GEN_VARIABLE': BlueprintGeneratedClass /Game/Blueprints/BP_PlayerCamera.BP_PlayerCamera_C
+[2019.03.23-01.59.35:131][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SimpleConstructionScript_0': BlueprintGeneratedClass /Game/Blueprints/BP_PlayerCamera.BP_PlayerCamera_C
+[2019.03.23-01.59.35:131][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SCS_Node_0': SimpleConstructionScript /Game/Blueprints/BP_PlayerCamera.BP_PlayerCamera_C:SimpleConstructionScript_0
+[2019.03.23-01.59.35:131][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SCS_Node_1': SimpleConstructionScript /Game/Blueprints/BP_PlayerCamera.BP_PlayerCamera_C:SimpleConstructionScript_0
+[2019.03.23-01.59.35:131][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BlueprintGeneratedClass /Game/Blueprints/BP_SceneController.BP_SceneController_C
+[2019.03.23-01.59.35:131][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot_GEN_VARIABLE': BlueprintGeneratedClass /Game/Blueprints/BP_SceneController.BP_SceneController_C
+[2019.03.23-01.59.35:131][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SimpleConstructionScript_0': BlueprintGeneratedClass /Game/Blueprints/BP_SceneController.BP_SceneController_C
+[2019.03.23-01.59.35:131][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SCS_Node_0': SimpleConstructionScript /Game/Blueprints/BP_SceneController.BP_SceneController_C:SimpleConstructionScript_0
+[2019.03.23-01.59.35:131][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Camera': BP_PlayerCamera_C /Game/Scenes/MainScene.MainScene:PersistentLevel.BP_PlayerCamera
+[2019.03.23-01.59.35:131][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_PlayerCamera_C /Game/Scenes/MainScene.MainScene:PersistentLevel.BP_PlayerCamera
+[2019.03.23-01.59.35:131][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_SceneController_C /Game/Scenes/MainScene.MainScene:PersistentLevel.BP_SceneController
+[2019.03.23-01.59.35:197][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.03.23-01.59.35:198][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.23-01.59.35:200][  0]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.23-01.59.35:204][  0]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.23-01.59.35:207][  0]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.23-01.59.35:322][  1]LogRenderer: Reallocating scene render targets to support 784x364 Format 10 NumSamples 1 (Frame:1).
+[2019.03.23-01.59.35:322][  1]LogAssetRegistry: Asset discovery search completed in 8.5695 seconds
+[2019.03.23-01.59.35:323][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.03.23-01.59.35:324][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000064 seconds (updated 0 objects)
+[2019.03.23-01.59.39:077][434]LogSlate: Window 'Message Log' being destroyed
+[2019.03.23-01.59.39:080][434]LogSlate: Window 'Message Log' being destroyed
+[2019.03.23-01.59.40:261][537]LogRenderer: Reallocating scene render targets to support 784x596 Format 10 NumSamples 1 (Frame:516).
+[2019.03.23-01.59.40:935][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.23-01.59.42:388][790]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.23-01.59.51:846][726]LogSlate: Window 'Delete Assets' being destroyed
+[2019.03.23-01.59.51:852][726]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.23-01.59.54:794][857]LogSlate: Window 'Delete Assets' being destroyed
+[2019.03.23-01.59.59:703][397]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.23-02.00.08:685][469]Running C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/TrainJam.uproject" -game -rocket -progress
+[2019.03.23-02.00.09:135][469]Discovering modules, targets and source code for project...
+[2019.03.23-02.00.12:257][469]Binding IntelliSense data...
+[2019.03.23-02.00.14:078][469]Binding IntelliSense data... 100%
+[2019.03.23-02.00.14:078][469]Writing project files...
+[2019.03.23-02.00.17:911][469]Writing project files... 100%
+[2019.03.23-02.00.18:017][469]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2019.03.23-02.00.18:020][469]Candidate modules for hot reload:
+[2019.03.23-02.00.18:020][469]  TrainJam
+[2019.03.23-02.00.18:021][469]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TrainJam,2093 Win64 Development -TargetType=Editor -Project="../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/TrainJam.uproject" -canskiplink "C:/Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/TrainJam.uproject" ]
+[2019.03.23-02.00.40:348][469]CompilerResultsLog: New page: Compilation - 23 Mar 2019 02:00:40
+[2019.03.23-02.00.40:348][469]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\ruari\Documents\GitHub\Train_Jam-19).
+[2019.03.23-02.00.40:348][469]CompilerResultsLog: Creating makefile for hot reloading TrainJamEditor (source directory changed)
+[2019.03.23-02.00.40:348][469]CompilerResultsLog: Compiling game modules for hot reload
+[2019.03.23-02.00.40:348][469]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.03.23-02.00.40:348][469]CompilerResultsLog: Parsing headers for TrainJamEditor
+[2019.03.23-02.00.40:348][469]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\ruari\Documents\GitHub\Train_Jam-19\TrainJam\TrainJam.uproject" "C:\Users\ruari\Documents\GitHub\Train_Jam-19\TrainJam\Intermediate\Build\Win64\TrainJamEditor\Development\TrainJamEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.03.23-02.00.40:348][469]CompilerResultsLog: Reflection code generated for TrainJamEditor in 11.5690749 seconds
+[2019.03.23-02.00.40:349][469]CompilerResultsLog: Building 5 actions with 12 processes...
+[2019.03.23-02.00.40:349][469]CompilerResultsLog:   [1/5] TrainJam.init.gen.cpp
+[2019.03.23-02.00.40:349][469]CompilerResultsLog:   [2/5] SceneController.cpp
+[2019.03.23-02.00.40:349][469]CompilerResultsLog:   [3/5] SceneController.gen.cpp
+[2019.03.23-02.00.40:349][469]CompilerResultsLog:   [4/5] UE4Editor-TrainJam-2093.lib
+[2019.03.23-02.00.40:349][469]CompilerResultsLog:      Creating library C:\Users\ruari\Documents\GitHub\Train_Jam-19\TrainJam\Intermediate\Build\Win64\UE4Editor\Development\TrainJam\UE4Editor-TrainJam-2093.lib and object C:\Users\ruari\Documents\GitHub\Train_Jam-19\TrainJam\Intermediate\Build\Win64\UE4Editor\Development\TrainJam\UE4Editor-TrainJam-2093.exp
+[2019.03.23-02.00.40:349][469]CompilerResultsLog:   [5/5] UE4Editor-TrainJam-2093.dll
+[2019.03.23-02.00.40:349][469]CompilerResultsLog:      Creating library C:\Users\ruari\Documents\GitHub\Train_Jam-19\TrainJam\Intermediate\Build\Win64\UE4Editor\Development\TrainJam\UE4Editor-TrainJam-2093.suppressed.lib and object C:\Users\ruari\Documents\GitHub\Train_Jam-19\TrainJam\Intermediate\Build\Win64\UE4Editor\Development\TrainJam\UE4Editor-TrainJam-2093.suppressed.exp
+[2019.03.23-02.00.40:349][469]CompilerResultsLog: Total build time: 21.98 seconds (Parallel executor: 2.42 seconds)
+[2019.03.23-02.00.40:349][469]LogMainFrame: MainFrame: Module compiling took 22.332 seconds
+[2019.03.23-02.00.40:393][469]LogClass: Could not find existing class SceneController in package /Script/TrainJam for HotReload, assuming new class
+[2019.03.23-02.00.40:399][469]LogContentBrowser: Native class hierarchy updated for 'TrainJam' in 0.0008 seconds. Added 4 classes and 2 folders.
+[2019.03.23-02.00.40:401][469]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.03.23-02.00.40:579][469]LogContentBrowser: Native class hierarchy populated in 0.0108 seconds. Added 2711 classes and 652 folders.
+[2019.03.23-02.00.40:579][469]Display: HotReload took 22.6s.
+[2019.03.23-02.00.40:581][469]Warning: HotReload operation took 22.6s.
+[2019.03.23-02.00.40:613][469]LogSlate: Window 'Add C++ Class' being destroyed
+[2019.03.23-02.00.40:623][469]LogHotReload: New module detected: UE4Editor-TrainJam-2093.dll
+[2019.03.23-02.00.40:654][470]LogHotReload: Starting Hot-Reload from IDE
+[2019.03.23-02.00.40:714][470]LogContentBrowser: Native class hierarchy updated for 'TrainJam' in 0.0006 seconds. Added 4 classes and 2 folders.
+[2019.03.23-02.00.40:716][470]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.03.23-02.00.40:757][470]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 2711 classes and 652 folders.
+[2019.03.23-02.00.40:761][470]Display: HotReload took  0.1s.
+[2019.03.23-02.00.50:882][475]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Source/TrainJam/SceneController.h'
+[2019.03.23-02.21.09:120][513]Running C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/DotNET/UnrealBuildTool.exe Win64 Development -TargetType=Editor -Project="C:/Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/TrainJam.uproject" -invalidatemakefilesonly
+[2019.03.23-02.21.11:261][513]Invalidating makefiles only in this run.
+[2019.03.23-02.21.11:380][513]Candidate modules for hot reload:
+[2019.03.23-02.21.11:380][513]  TrainJam
+[2019.03.23-02.21.11:380][513]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TrainJam,768 Win64 Development -TargetType=Editor -Project="../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/TrainJam.uproject" -canskiplink "C:/Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/TrainJam.uproject" ]
+[2019.03.23-02.21.55:911][513]CompilerResultsLog: New page: Compilation - 23 Mar 2019 02:21:55
+[2019.03.23-02.21.55:912][513]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\ruari\Documents\GitHub\Train_Jam-19).
+[2019.03.23-02.21.55:912][513]CompilerResultsLog: Creating makefile for hot reloading TrainJamEditor (no existing makefile)
+[2019.03.23-02.21.55:912][513]CompilerResultsLog: Compiling game modules for hot reload
+[2019.03.23-02.21.55:912][513]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.03.23-02.21.55:912][513]CompilerResultsLog: Parsing headers for TrainJamEditor
+[2019.03.23-02.21.55:912][513]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\ruari\Documents\GitHub\Train_Jam-19\TrainJam\TrainJam.uproject" "C:\Users\ruari\Documents\GitHub\Train_Jam-19\TrainJam\Intermediate\Build\Win64\TrainJamEditor\Development\TrainJamEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.03.23-02.21.55:912][513]CompilerResultsLog: Reflection code generated for TrainJamEditor in 11.7506712 seconds
+[2019.03.23-02.21.55:912][513]CompilerResultsLog: Building 7 actions with 12 processes...
+[2019.03.23-02.21.55:912][513]CompilerResultsLog:   [1/7] PlayerCameraController.cpp
+[2019.03.23-02.21.55:912][513]CompilerResultsLog:   [2/7] SceneController.cpp
+[2019.03.23-02.21.55:912][513]CompilerResultsLog:   [3/7] TrainJam.init.gen.cpp
+[2019.03.23-02.21.55:912][513]CompilerResultsLog:   [4/7] SceneController.gen.cpp
+[2019.03.23-02.21.55:912][513]CompilerResultsLog:   [5/7] PlayerCameraController.gen.cpp
+[2019.03.23-02.21.55:912][513]CompilerResultsLog:   [6/7] UE4Editor-TrainJam-768.lib
+[2019.03.23-02.21.55:912][513]CompilerResultsLog:      Creating library C:\Users\ruari\Documents\GitHub\Train_Jam-19\TrainJam\Intermediate\Build\Win64\UE4Editor\Development\TrainJam\UE4Editor-TrainJam-768.lib and object C:\Users\ruari\Documents\GitHub\Train_Jam-19\TrainJam\Intermediate\Build\Win64\UE4Editor\Development\TrainJam\UE4Editor-TrainJam-768.exp
+[2019.03.23-02.21.55:912][513]CompilerResultsLog:   [7/7] UE4Editor-TrainJam-768.dll
+[2019.03.23-02.21.55:912][513]CompilerResultsLog:      Creating library C:\Users\ruari\Documents\GitHub\Train_Jam-19\TrainJam\Intermediate\Build\Win64\UE4Editor\Development\TrainJam\UE4Editor-TrainJam-768.suppressed.lib and object C:\Users\ruari\Documents\GitHub\Train_Jam-19\TrainJam\Intermediate\Build\Win64\UE4Editor\Development\TrainJam\UE4Editor-TrainJam-768.suppressed.exp
+[2019.03.23-02.21.55:912][513]CompilerResultsLog: Total build time: 44.15 seconds (Parallel executor: 3.00 seconds)
+[2019.03.23-02.21.55:912][513]LogMainFrame: MainFrame: Module compiling took 44.535 seconds
+[2019.03.23-02.21.55:960][513]LogClass: Could not find existing class PlayerCameraController in package /Script/TrainJam for HotReload, assuming new class
+[2019.03.23-02.21.55:967][513]LogContentBrowser: Native class hierarchy updated for 'TrainJam' in 0.0009 seconds. Added 5 classes and 2 folders.
+[2019.03.23-02.21.55:970][513]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.03.23-02.21.56:048][513]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2712 classes and 652 folders.
+[2019.03.23-02.21.56:048][513]Display: HotReload took 44.7s.
+[2019.03.23-02.21.56:049][513]Warning: HotReload operation took 44.7s.
+[2019.03.23-02.21.56:294][513]LogSlate: Window 'Add C++ Class' being destroyed
+[2019.03.23-02.21.56:304][513]LogHotReload: New module detected: UE4Editor-TrainJam-768.dll
+[2019.03.23-02.21.56:338][514]LogHotReload: Starting Hot-Reload from IDE
+[2019.03.23-02.21.56:397][514]LogContentBrowser: Native class hierarchy updated for 'TrainJam' in 0.0008 seconds. Added 5 classes and 2 folders.
+[2019.03.23-02.21.56:402][514]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.03.23-02.21.56:443][514]LogContentBrowser: Native class hierarchy populated in 0.0106 seconds. Added 2712 classes and 652 folders.
+[2019.03.23-02.21.56:446][514]Display: HotReload took  0.1s.
+[2019.03.23-02.22.35:345][630]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (38.891 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.23-02.26.46:877][380]LogHotReload: New module detected: UE4Editor-TrainJam-2845.dll
+[2019.03.23-02.26.48:576][386]LogHotReload: Starting Hot-Reload from IDE
+[2019.03.23-02.26.48:633][386]LogClass: Could not find existing class SceneController in package /Script/TrainJam for HotReload, assuming new class
+[2019.03.23-02.26.48:638][386]LogHotReload: Re-instancing SceneController after hot-reload.
+[2019.03.23-02.26.48:718][386]LogContentBrowser: Native class hierarchy updated for 'TrainJam' in 0.0007 seconds. Added 5 classes and 2 folders.
+[2019.03.23-02.26.48:720][386]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.03.23-02.26.48:788][386]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 2712 classes and 652 folders.
+[2019.03.23-02.26.48:791][386]Display: HotReload took  0.2s.
+[2019.03.23-02.27.56:230][587]LogHotReload: New module detected: UE4Editor-TrainJam-4046.dll
+[2019.03.23-02.27.57:588][592]LogHotReload: Starting Hot-Reload from IDE
+[2019.03.23-02.27.57:657][592]LogClass: Could not find existing class SceneController in package /Script/TrainJam for HotReload, assuming new class
+[2019.03.23-02.27.57:663][592]LogHotReload: Re-instancing SceneController after hot-reload.
+[2019.03.23-02.27.57:733][592]LogContentBrowser: Native class hierarchy updated for 'TrainJam' in 0.0006 seconds. Added 5 classes and 2 folders.
+[2019.03.23-02.27.57:736][592]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.03.23-02.27.57:809][592]LogContentBrowser: Native class hierarchy populated in 0.0106 seconds. Added 2712 classes and 652 folders.
+[2019.03.23-02.27.57:812][592]Display: HotReload took  0.2s.
+[2019.03.23-02.28.26:368][677]LogHotReload: New module detected: UE4Editor-TrainJam-7793.dll
+[2019.03.23-02.28.27:732][682]LogHotReload: Starting Hot-Reload from IDE
+[2019.03.23-02.28.27:786][682]LogClass: Could not find existing class SceneController in package /Script/TrainJam for HotReload, assuming new class
+[2019.03.23-02.28.27:791][682]LogHotReload: Re-instancing SceneController after hot-reload.
+[2019.03.23-02.28.27:862][682]LogContentBrowser: Native class hierarchy updated for 'TrainJam' in 0.0006 seconds. Added 5 classes and 2 folders.
+[2019.03.23-02.28.27:865][682]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.03.23-02.28.27:930][682]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2712 classes and 652 folders.
+[2019.03.23-02.28.27:933][682]Display: HotReload took  0.2s.
+[2019.03.23-02.28.42:642][922]LogEditor: Attempting to add actor of class 'SceneController' to level at -480.00,-360.00,-350.00
+[2019.03.23-02.28.43:473][ 21]LogEditor: Attempting to add actor of class 'SceneController' to level at 30.00,-10.00,0.00
+[2019.03.23-02.28.44:673][161]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.23-02.28.54:137][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/MainScene" FILE="../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Scenes/MainScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.23-02.28.54:290][258]LogSavePackage: Moving '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/MainSceneB01F71554D814919C29012A8C529DCBF.tmp' to '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Scenes/MainScene.umap'
+[2019.03.23-02.28.54:328][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/MainScene_BuiltData" FILE="../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Scenes/MainScene_BuiltData.uasset" SILENT=true
+[2019.03.23-02.28.54:385][258]LogSavePackage: Moving '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/MainScene_BuiltDataA9FF9CCB478940E46F36F29DCF18F621.tmp' to '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Scenes/MainScene_BuiltData.uasset'
+[2019.03.23-02.28.58:880][695]LogEditor: Attempting to add actor of class 'PlayerCameraController' to level at -480.00,-480.00,-350.00
+[2019.03.23-02.29.00:985][946]LogEditor: Attempting to add actor of class 'PlayerCameraController' to level at 160.00,-10.00,0.00
+[2019.03.23-02.29.02:328][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.23-02.29.12:393][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/MainScene" FILE="../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Scenes/MainScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.23-02.29.12:527][170]LogSavePackage: Moving '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/MainSceneFCC847A743DD05B65E1F838C9F0F15C8.tmp' to '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Scenes/MainScene.umap'
+[2019.03.23-02.29.12:556][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/MainScene_BuiltData" FILE="../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Scenes/MainScene_BuiltData.uasset" SILENT=true
+[2019.03.23-02.29.12:608][170]LogSavePackage: Moving '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/MainScene_BuiltDataA9AEF4F849B630E091E51587CFC91F7A.tmp' to '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Scenes/MainScene_BuiltData.uasset'
+[2019.03.23-02.31.10:239][590]LogRenderer: Reallocating scene render targets to support 1140x608 Format 10 NumSamples 1 (Frame:10670).
+[2019.03.23-02.31.19:166][654]LogSlate: Window 'Select Path' being destroyed
+[2019.03.23-02.31.19:219][654]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_PlayerCamera.BP_PlayerCamera
+[2019.03.23-02.31.19:940][654]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 117 classes and 0 folders.
+[2019.03.23-02.31.22:185][794]LogSlate: Took 0.003299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.23-02.31.25:043][101]BlueprintLog: New page: Compile BP_PlayerCamera
+[2019.03.23-02.31.25:941][160]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerCamera" FILE="../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Blueprints/BP_PlayerCamera.uasset" SILENT=true
+[2019.03.23-02.31.25:954][160]LogSavePackage: Moving '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/BP_PlayerCameraE9DD7CDE459F76A266EE60B06432D9FC.tmp' to '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Blueprints/BP_PlayerCamera.uasset'
+[2019.03.23-02.31.26:694][233]LogSlate: Window 'BP_PlayerCamera' being destroyed
+[2019.03.23-02.31.26:697][233]LogSlate: Window 'BP_PlayerCamera' being destroyed
+[2019.03.23-02.31.39:880][793]LogSlate: Window 'Select Path' being destroyed
+[2019.03.23-02.31.39:934][793]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_SceneController.BP_SceneController
+[2019.03.23-02.31.42:694][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SceneController" FILE="../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Blueprints/BP_SceneController.uasset" SILENT=true
+[2019.03.23-02.31.42:705][ 50]LogSavePackage: Moving '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/BP_SceneController6B1E251E4DF4AA5909066DAEF9FF3BA7.tmp' to '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Blueprints/BP_SceneController.uasset'
+[2019.03.23-02.31.44:012][197]LogSlate: Window 'BP_SceneController' being destroyed
+[2019.03.23-02.31.44:015][197]LogSlate: Window 'BP_SceneController' being destroyed
+[2019.03.23-02.31.47:282][575]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_SceneController.BP_SceneController
+[2019.03.23-02.31.49:943][831]LogSlate: Window 'BP_SceneController' being destroyed
+[2019.03.23-02.31.50:014][831]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_SceneController.BP_SceneController
+[2019.03.23-02.32.18:796][ 53]BlueprintLog: New page: Compile BP_SceneController
+[2019.03.23-02.32.30:719][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/MainScene" FILE="../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Scenes/MainScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.23-02.32.30:910][420]LogSavePackage: Moving '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/MainScene021EA063463AF1E9BB47E7BDC0BC48A6.tmp' to '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Scenes/MainScene.umap'
+[2019.03.23-02.32.30:940][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/MainScene_BuiltData" FILE="../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Scenes/MainScene_BuiltData.uasset" SILENT=true
+[2019.03.23-02.32.30:991][420]LogSavePackage: Moving '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/MainScene_BuiltData652C120B46D31E619AA3F09E00ED44EB.tmp' to '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Scenes/MainScene_BuiltData.uasset'
+[2019.03.23-02.32.43:002][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/MainScene" FILE="../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Scenes/MainScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.23-02.32.43:192][829]LogSavePackage: Moving '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/MainScene1F016A524ACCA51E0366B1B80E20D602.tmp' to '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Scenes/MainScene.umap'
+[2019.03.23-02.32.43:221][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/MainScene_BuiltData" FILE="../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Scenes/MainScene_BuiltData.uasset" SILENT=true
+[2019.03.23-02.32.43:272][829]LogSavePackage: Moving '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/MainScene_BuiltData4E570167494369711C22409E18004A37.tmp' to '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Scenes/MainScene_BuiltData.uasset'
+[2019.03.23-02.32.52:762][911]LogSlate: Window 'BP_SceneController*' being destroyed
+[2019.03.23-02.32.52:766][911]LogSlate: Window 'BP_SceneController*' being destroyed
+[2019.03.23-02.35.59:854][574]LogHotReload: New module detected: UE4Editor-TrainJam-4149.dll
+[2019.03.23-02.36.01:211][579]LogHotReload: Starting Hot-Reload from IDE
+[2019.03.23-02.36.01:268][579]LogClass: Could not find existing class SceneController in package /Script/TrainJam for HotReload, assuming new class
+[2019.03.23-02.36.01:269][579]LogClass: Function GetPlayerCamera is new.
+[2019.03.23-02.36.01:279][579]LogHotReload: Re-instancing SceneController after hot-reload.
+[2019.03.23-02.36.01:525][579]LogContentBrowser: Native class hierarchy updated for 'TrainJam' in 0.0007 seconds. Added 5 classes and 2 folders.
+[2019.03.23-02.36.01:528][579]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.03.23-02.36.01:863][579]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2712 classes and 652 folders.
+[2019.03.23-02.36.01:867][579]Display: HotReload took  0.7s.
+[2019.03.23-02.36.09:207][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/MainScene" FILE="../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Scenes/MainScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.23-02.36.09:453][789]LogSavePackage: Moving '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/MainScene144D30F44140FAE68C51B4AECCDE0B54.tmp' to '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Scenes/MainScene.umap'
+[2019.03.23-02.36.09:482][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/MainScene_BuiltData" FILE="../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Scenes/MainScene_BuiltData.uasset" SILENT=true
+[2019.03.23-02.36.09:540][789]LogSavePackage: Moving '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/MainScene_BuiltDataFDFCC5944AC64230D18B429C28DE5329.tmp' to '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Scenes/MainScene_BuiltData.uasset'
+[2019.03.23-02.36.10:096][853]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_SceneController.BP_SceneController
+[2019.03.23-02.36.27:773][829]BlueprintLog: New page: Compile BP_SceneController
+[2019.03.23-02.38.11:381][ 98]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_PlayerCamera.BP_PlayerCamera
+[2019.03.23-02.38.13:768][328]LogSlate: Window 'BP_PlayerCamera' being destroyed
+[2019.03.23-02.38.13:771][328]LogSlate: Window 'BP_PlayerCamera' being destroyed
+[2019.03.23-02.38.13:836][328]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.23-02.42.15:482][239]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_SceneController.BP_SceneController
+[2019.03.23-02.42.17:061][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SceneController" FILE="../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Blueprints/BP_SceneController.uasset" SILENT=true
+[2019.03.23-02.42.17:086][378]LogSavePackage: Moving '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/BP_SceneController8B538FEF453895D9E2D1E4800E54DBB8.tmp' to '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Blueprints/BP_SceneController.uasset'
+[2019.03.23-02.42.21:709][905]LogSlate: Window 'BP_SceneController' being destroyed
+[2019.03.23-02.42.21:713][905]LogSlate: Window 'BP_SceneController' being destroyed
+[2019.03.23-02.42.23:092][ 61]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_PlayerCamera.BP_PlayerCamera
+[2019.03.23-02.42.25:869][339]LogSlate: Window 'BP_PlayerCamera' being destroyed
+[2019.03.23-02.42.25:874][339]LogSlate: Window 'BP_PlayerCamera' being destroyed
+[2019.03.23-02.42.34:691][385]LogAssetEditorManager: Opening Asset editor for Class /Script/TrainJam.PlayerCameraController
+[2019.03.23-02.46.09:857][ 26]LogSavePackage: Moving '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/MainScene_Auto110C2D5714ADCD51FC274F3B19E26433D.tmp' to '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/Autosaves/Game/Scenes/MainScene_Auto1.umap'
+[2019.03.23-02.46.09:861][ 26]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Scenes/MainScene' took 0.212
+[2019.03.23-02.46.09:861][ 26]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.212
+[2019.03.23-02.47.46:422][315]LogHotReload: New module detected: UE4Editor-TrainJam-3019.dll
+[2019.03.23-02.47.47:786][320]LogHotReload: Starting Hot-Reload from IDE
+[2019.03.23-02.47.47:845][320]LogClass: Could not find existing class PlayerCameraController in package /Script/TrainJam for HotReload, assuming new class
+[2019.03.23-02.47.47:845][320]LogClass: Function ZoomCamera is new.
+[2019.03.23-02.47.47:845][320]LogClass: Could not find existing class SceneController in package /Script/TrainJam for HotReload, assuming new class
+[2019.03.23-02.47.47:845][320]LogClass: Function GetPlayerCamera is new.
+[2019.03.23-02.47.47:858][320]LogHotReload: Re-instancing PlayerCameraController after hot-reload.
+[2019.03.23-02.47.48:103][320]LogHotReload: Re-instancing SceneController after hot-reload.
+[2019.03.23-02.47.48:338][320]LogContentBrowser: Native class hierarchy updated for 'TrainJam' in 0.0007 seconds. Added 5 classes and 2 folders.
+[2019.03.23-02.47.48:341][320]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.03.23-02.47.48:680][320]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2712 classes and 652 folders.
+[2019.03.23-02.47.48:683][320]Display: HotReload took  0.9s.
+[2019.03.23-02.48.27:812][344]LogSlate: Window 'Content Browser 2' being destroyed
+[2019.03.23-02.48.35:886][302]LogSlate: Took 0.037050 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Black.ttf' (162K)
+[2019.03.23-02.48.51:955][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/MainScene" FILE="../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Scenes/MainScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.23-02.48.52:202][220]LogSavePackage: Moving '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/MainSceneEEF9080C4C100716CA4E639707B1F5A5.tmp' to '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Scenes/MainScene.umap'
+[2019.03.23-02.48.52:232][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/MainScene_BuiltData" FILE="../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Scenes/MainScene_BuiltData.uasset" SILENT=true
+[2019.03.23-02.48.52:291][220]LogSavePackage: Moving '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/MainScene_BuiltData1EC6D6654FA411C1206E578A28CEA8FC.tmp' to '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Scenes/MainScene_BuiltData.uasset'
+[2019.03.23-02.49.31:646][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/MainScene" FILE="../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Scenes/MainScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.23-02.49.31:857][895]LogSavePackage: Moving '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/MainSceneAC9BC25B467E22175EF304BF99F10D73.tmp' to '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Scenes/MainScene.umap'
+[2019.03.23-02.49.31:886][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/MainScene_BuiltData" FILE="../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Scenes/MainScene_BuiltData.uasset" SILENT=true
+[2019.03.23-02.49.31:939][895]LogSavePackage: Moving '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/MainScene_BuiltData9EC819E740D30BB9CC8F8FB204C5ACBC.tmp' to '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Scenes/MainScene_BuiltData.uasset'
+[2019.03.23-02.49.32:585][963]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.23-02.49.32:600][963]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/MainScene.MainScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainScene.MainScene:PersistentLevel.MainScene' with GeneratedClass '/Game/Scenes/MainScene.MainScene_C' with ClassGeneratedBy '/Game/Scenes/MainScene.MainScene:PersistentLevel.MainScene'
+[2019.03.23-02.49.32:600][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.23-02.49.32:600][963]PIE: New page: PIE session: MainScene (23 Mar 2019 02:49:32)
+[2019.03.23-02.49.32:613][963]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_MainScene
+[2019.03.23-02.49.32:616][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003234s)
+[2019.03.23-02.49.32:618][963]LogAIModule: Creating AISystem for world MainScene
+[2019.03.23-02.49.32:618][963]LogPlayLevel: PIE: World Init took: (0.001252s)
+[2019.03.23-02.49.32:618][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/MainScene.MainScene to /Game/Scenes/UEDPIE_0_MainScene.MainScene (0.004810s)
+[2019.03.23-02.49.32:749][963]LogInit: XAudio2 using '2369M-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.23-02.49.32:766][963]LogInit: FAudioDevice initialized.
+[2019.03.23-02.49.32:805][963]LogLoad: Game class is 'BP_GameManager_C'
+[2019.03.23-02.49.32:807][963]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_MainScene.MainScene up for play (max tick rate 0) at 2019.03.23-02.49.32
+[2019.03.23-02.49.32:807][963]LogWorld: Bringing up level for play took: 0.000901
+[2019.03.23-02.49.32:878][963]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2019.03.23-02.49.32:879][963]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_MainScene -0.224
+[2019.03.23-02.49.32:879][963]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/MainScene.MainScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainScene.MainScene:PersistentLevel.MainScene' with GeneratedClass '/Game/Scenes/MainScene.MainScene_C' with ClassGeneratedBy '/Game/Scenes/MainScene.MainScene:PersistentLevel.MainScene'
+[2019.03.23-02.49.35:056][218]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/MainScene.MainScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainScene.MainScene:PersistentLevel.MainScene' with GeneratedClass '/Game/Scenes/MainScene.MainScene_C' with ClassGeneratedBy '/Game/Scenes/MainScene.MainScene:PersistentLevel.MainScene'
+[2019.03.23-02.49.35:057][218]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-02.49.35:088][218]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.23-02.49.35:089][218]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/MainScene.MainScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainScene.MainScene:PersistentLevel.MainScene' with GeneratedClass '/Game/Scenes/MainScene.MainScene_C' with ClassGeneratedBy '/Game/Scenes/MainScene.MainScene:PersistentLevel.MainScene'
+[2019.03.23-02.49.35:115][218]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-02.49.35:163][223]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.03.23-02.49.43:874][265]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_PlayerCamera.BP_PlayerCamera
+[2019.03.23-02.49.51:474][ 84]BlueprintLog: New page: Compile BP_PlayerCamera
+[2019.03.23-02.49.51:987][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerCamera" FILE="../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Blueprints/BP_PlayerCamera.uasset" SILENT=true
+[2019.03.23-02.49.52:025][116]LogSavePackage: Moving '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/BP_PlayerCamera253304AF4BE454258BB924A3F9FFD9DD.tmp' to '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Blueprints/BP_PlayerCamera.uasset'
+[2019.03.23-02.49.52:951][218]LogSlate: Window 'BP_PlayerCamera' being destroyed
+[2019.03.23-02.49.52:955][218]LogSlate: Window 'BP_PlayerCamera' being destroyed
+[2019.03.23-02.49.55:857][542]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_PlayerCamera.BP_PlayerCamera
+[2019.03.23-02.50.16:069][739]LogSlate: Window 'BP_PlayerCamera' being destroyed
+[2019.03.23-02.50.16:073][739]LogSlate: Window 'BP_PlayerCamera' being destroyed
+[2019.03.23-02.50.32:772][724]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor5)
+[2019.03.23-02.50.32:827][724]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.23-02.50.34:915][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.23-02.50.54:681][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/MainScene" FILE="../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Scenes/MainScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.23-02.50.54:864][304]LogSavePackage: Moving '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/MainScene85B1B4FC4B02A57AA583A9BFCA316F45.tmp' to '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Scenes/MainScene.umap'
+[2019.03.23-02.50.54:896][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/MainScene_BuiltData" FILE="../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Scenes/MainScene_BuiltData.uasset" SILENT=true
+[2019.03.23-02.50.54:950][304]LogSavePackage: Moving '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/MainScene_BuiltData2D9C83F0421341812385328B903C99E7.tmp' to '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Scenes/MainScene_BuiltData.uasset'
+[2019.03.23-02.50.55:453][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.23-02.50.55:528][357]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.23-02.50.55:546][357]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/MainScene.MainScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainScene.MainScene:PersistentLevel.MainScene' with GeneratedClass '/Game/Scenes/MainScene.MainScene_C' with ClassGeneratedBy '/Game/Scenes/MainScene.MainScene:PersistentLevel.MainScene'
+[2019.03.23-02.50.55:547][357]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.23-02.50.55:547][357]PIE: New page: PIE session: MainScene (23 Mar 2019 02:50:55)
+[2019.03.23-02.50.55:547][357]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_MainScene
+[2019.03.23-02.50.55:550][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003316s)
+[2019.03.23-02.50.55:551][357]LogAIModule: Creating AISystem for world MainScene
+[2019.03.23-02.50.55:551][357]LogPlayLevel: PIE: World Init took: (0.000644s)
+[2019.03.23-02.50.55:551][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/MainScene.MainScene to /Game/Scenes/UEDPIE_0_MainScene.MainScene (0.004079s)
+[2019.03.23-02.50.55:679][357]LogInit: XAudio2 using '2369M-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.23-02.50.55:696][357]LogInit: FAudioDevice initialized.
+[2019.03.23-02.50.55:726][357]LogLoad: Game class is 'BP_GameManager_C'
+[2019.03.23-02.50.55:727][357]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_MainScene.MainScene up for play (max tick rate 0) at 2019.03.23-02.50.55
+[2019.03.23-02.50.55:727][357]LogWorld: Bringing up level for play took: 0.000812
+[2019.03.23-02.50.55:740][357]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_MainScene 0.637
+[2019.03.23-02.50.55:740][357]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/MainScene.MainScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainScene.MainScene:PersistentLevel.MainScene' with GeneratedClass '/Game/Scenes/MainScene.MainScene_C' with ClassGeneratedBy '/Game/Scenes/MainScene.MainScene:PersistentLevel.MainScene'
+[2019.03.23-02.50.56:527][447]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/MainScene.MainScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainScene.MainScene:PersistentLevel.MainScene' with GeneratedClass '/Game/Scenes/MainScene.MainScene_C' with ClassGeneratedBy '/Game/Scenes/MainScene.MainScene:PersistentLevel.MainScene'
+[2019.03.23-02.50.56:528][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-02.50.56:564][447]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.23-02.50.56:565][447]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/MainScene.MainScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainScene.MainScene:PersistentLevel.MainScene' with GeneratedClass '/Game/Scenes/MainScene.MainScene_C' with ClassGeneratedBy '/Game/Scenes/MainScene.MainScene:PersistentLevel.MainScene'
+[2019.03.23-02.50.56:594][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-02.50.56:629][450]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.03.23-02.51.05:192][464]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_GameManager.BP_GameManager
+[2019.03.23-02.51.07:318][668]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.03.23-02.51.21:991][344]BlueprintLog: New page: Compile BP_GameManager
+[2019.03.23-02.51.22:490][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameManager" FILE="../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Blueprints/BP_GameManager.uasset" SILENT=true
+[2019.03.23-02.51.22:538][381]LogSavePackage: Moving '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Saved/BP_GameManager9EC572B94C450352D110D4B75B57C9F6.tmp' to '../../../../../../Users/ruari/Documents/GitHub/Train_Jam-19/TrainJam/Content/Blueprints/BP_GameManager.uasset'
+[2019.03.23-02.51.23:682][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.23-02.51.23:748][520]LogSlate: Window 'BP_GameManager' being destroyed
+[2019.03.23-02.51.23:752][520]LogSlate: Window 'BP_GameManager' being destroyed
+[2019.03.23-02.51.25:694][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.23-02.51.27:213][916]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.23-02.51.27:227][916]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/MainScene.MainScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainScene.MainScene:PersistentLevel.MainScene' with GeneratedClass '/Game/Scenes/MainScene.MainScene_C' with ClassGeneratedBy '/Game/Scenes/MainScene.MainScene:PersistentLevel.MainScene'
+[2019.03.23-02.51.27:227][916]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.23-02.51.27:227][916]PIE: New page: PIE session: MainScene (23 Mar 2019 02:51:27)
+[2019.03.23-02.51.27:227][916]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_MainScene
+[2019.03.23-02.51.27:230][916]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003083s)
+[2019.03.23-02.51.27:231][916]LogAIModule: Creating AISystem for world MainScene
+[2019.03.23-02.51.27:231][916]LogPlayLevel: PIE: World Init took: (0.000545s)
+[2019.03.23-02.51.27:231][916]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/MainScene.MainScene to /Game/Scenes/UEDPIE_0_MainScene.MainScene (0.003752s)
+[2019.03.23-02.51.27:367][916]LogInit: XAudio2 using '2369M-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.23-02.51.27:387][916]LogInit: FAudioDevice initialized.
+[2019.03.23-02.51.27:422][916]LogLoad: Game class is 'BP_GameManager_C'
+[2019.03.23-02.51.27:423][916]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_MainScene.MainScene up for play (max tick rate 0) at 2019.03.23-02.51.27
+[2019.03.23-02.51.27:423][916]LogWorld: Bringing up level for play took: 0.000771
+[2019.03.23-02.51.27:436][916]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_MainScene 0.333
+[2019.03.23-02.51.27:436][916]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/MainScene.MainScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainScene.MainScene:PersistentLevel.MainScene' with GeneratedClass '/Game/Scenes/MainScene.MainScene_C' with ClassGeneratedBy '/Game/Scenes/MainScene.MainScene:PersistentLevel.MainScene'
+[2019.03.23-02.51.30:531][283]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/MainScene.MainScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainScene.MainScene:PersistentLevel.MainScene' with GeneratedClass '/Game/Scenes/MainScene.MainScene_C' with ClassGeneratedBy '/Game/Scenes/MainScene.MainScene:PersistentLevel.MainScene'
+[2019.03.23-02.51.30:531][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-02.51.30:567][283]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.23-02.51.30:567][283]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/MainScene.MainScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/MainScene.MainScene:PersistentLevel.MainScene' with GeneratedClass '/Game/Scenes/MainScene.MainScene_C' with ClassGeneratedBy '/Game/Scenes/MainScene.MainScene:PersistentLevel.MainScene'
+[2019.03.23-02.51.30:595][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-02.51.30:647][287]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.03.23-02.51.31:873][433]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_GameManager.BP_GameManager
+[2019.03.23-02.51.38:558][193]LogSlate: Window 'BP_GameManager' being destroyed
+[2019.03.23-02.51.38:562][193]LogSlate: Window 'BP_GameManager' being destroyed
+[2019.03.23-02.51.38:937][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.23-02.52.06:425][487]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_GameManager.BP_GameManager
+[2019.03.23-02.52.19:128][952]LogSlate: Window 'BP_GameManager' being destroyed
+[2019.03.23-02.52.19:132][952]LogSlate: Window 'BP_GameManager' being destroyed
+[2019.03.23-02.52.19:877][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.23-02.56.03:168][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.23-02.56.05:805][ 89]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_GameManager.BP_GameManager
+[2019.03.23-02.56.14:536][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.23-02.57.51:597][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.23-02.58.26:229][758]LogSlate: Window 'BP_GameManager' being destroyed
+[2019.03.23-02.58.26:290][758]LogSlate: Window 'TrainJam - Unreal Editor' being destroyed
+[2019.03.23-02.58.26:499][759]Cmd: QUIT_EDITOR
+[2019.03.23-02.58.27:375][759]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.23-02.58.27:389][759]LogExit: Preparing to exit.
+[2019.03.23-02.58.27:761][759]LogExit: Editor shut down
+[2019.03.23-02.58.27:761][759]LogExit: Transaction tracking system shut down
+[2019.03.23-02.58.27:998][759]LogExit: Object subsystem successfully closed.
+[2019.03.23-02.58.28:022][759]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.03.23-02.58.28:025][759]LogD3D11RHI: Shutdown
+[2019.03.23-02.58.28:025][759]LogD3D11RHI: CleanupD3DDevice
+[2019.03.23-02.58.28:027][759]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.03.23-02.58.28:065][759]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (657)
+[2019.03.23-02.58.28:065][759]LogModuleManager: Shutting down and abandoning module Voice (655)
+[2019.03.23-02.58.28:065][759]LogModuleManager: Shutting down and abandoning module TrainJam (653)
+[2019.03.23-02.58.28:065][759]LogModuleManager: Shutting down and abandoning module BlueprintGraph (651)
+[2019.03.23-02.58.28:065][759]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (642)
+[2019.03.23-02.58.28:065][759]LogModuleManager: Shutting down and abandoning module AddContentDialog (640)
+[2019.03.23-02.58.28:066][759]LogModuleManager: Shutting down and abandoning module WidgetCarousel (639)
+[2019.03.23-02.58.28:066][759]LogModuleManager: Shutting down and abandoning module EditorWidgets (636)
+[2019.03.23-02.58.28:066][759]LogModuleManager: Shutting down and abandoning module CollectionManager (634)
+[2019.03.23-02.58.28:066][759]LogModuleManager: Shutting down and abandoning module SceneOutliner (632)
+[2019.03.23-02.58.28:066][759]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2019.03.23-02.58.28:066][759]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.03.23-02.58.28:066][759]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2019.03.23-02.58.28:066][759]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2019.03.23-02.58.28:066][759]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2019.03.23-02.58.28:066][759]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2019.03.23-02.58.28:066][759]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2019.03.23-02.58.28:066][759]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2019.03.23-02.58.28:066][759]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2019.03.23-02.58.28:066][759]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2019.03.23-02.58.28:066][759]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2019.03.23-02.58.28:066][759]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2019.03.23-02.58.28:066][759]LogModuleManager: Shutting down and abandoning module DatasmithFBXImporter (606)
+[2019.03.23-02.58.28:067][759]LogModuleManager: Shutting down and abandoning module DatasmithDeltaGenImporter (604)
+[2019.03.23-02.58.28:067][759]LogModuleManager: Shutting down and abandoning module DatasmithVREDImporter (602)
+[2019.03.23-02.58.28:067][759]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (600)
+[2019.03.23-02.58.28:067][759]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (598)
+[2019.03.23-02.58.28:067][759]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (596)
+[2019.03.23-02.58.28:067][759]LogModuleManager: Shutting down and abandoning module PlacementMode (595)
+[2019.03.23-02.58.28:067][759]LogModuleManager: Shutting down and abandoning module MaterialEditor (594)
+[2019.03.23-02.58.28:067][759]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (590)
+[2019.03.23-02.58.28:067][759]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (588)
+[2019.03.23-02.58.28:067][759]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (586)
+[2019.03.23-02.58.28:067][759]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (584)
+[2019.03.23-02.58.28:067][759]LogModuleManager: Shutting down and abandoning module WebMMedia (582)
+[2019.03.23-02.58.28:067][759]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (580)
+[2019.03.23-02.58.28:067][759]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (578)
+[2019.03.23-02.58.28:067][759]LogModuleManager: Shutting down and abandoning module SequenceRecorder (577)
+[2019.03.23-02.58.28:067][759]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (574)
+[2019.03.23-02.58.28:067][759]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (572)
+[2019.03.23-02.58.28:067][759]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (570)
+[2019.03.23-02.58.28:067][759]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (568)
+[2019.03.23-02.58.28:067][759]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (566)
+[2019.03.23-02.58.28:067][759]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (564)
+[2019.03.23-02.58.28:067][759]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (562)
+[2019.03.23-02.58.28:067][759]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (560)
+[2019.03.23-02.58.28:067][759]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2019.03.23-02.58.28:067][759]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2019.03.23-02.58.28:067][759]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2019.03.23-02.58.28:067][759]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2019.03.23-02.58.28:067][759]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2019.03.23-02.58.28:067][759]LogModuleManager: Shutting down and abandoning module ViewportSnapping (548)
+[2019.03.23-02.58.28:067][759]LogModuleManager: Shutting down and abandoning module ViewportInteraction (546)
+[2019.03.23-02.58.28:067][759]LogModuleManager: Shutting down and abandoning module ClothPainter (544)
+[2019.03.23-02.58.28:067][759]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (543)
+[2019.03.23-02.58.28:067][759]LogModuleManager: Shutting down and abandoning module LogVisualizer (540)
+[2019.03.23-02.58.28:067][759]LogModuleManager: Shutting down and abandoning module IntroTutorials (538)
+[2019.03.23-02.58.28:068][759]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (537)
+[2019.03.23-02.58.28:068][759]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (534)
+[2019.03.23-02.58.28:068][759]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (532)
+[2019.03.23-02.58.28:068][759]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (530)
+[2019.03.23-02.58.28:068][759]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (528)
+[2019.03.23-02.58.28:068][759]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (527)
+[2019.03.23-02.58.28:582][759]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (524)
+[2019.03.23-02.58.28:582][759]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (522)
+[2019.03.23-02.58.28:582][759]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (520)
+[2019.03.23-02.58.28:582][759]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (518)
+[2019.03.23-02.58.28:582][759]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (516)
+[2019.03.23-02.58.28:582][759]LogModuleManager: Shutting down and abandoning module InputBindingEditor (514)
+[2019.03.23-02.58.28:582][759]LogModuleManager: Shutting down and abandoning module MergeActors (512)
+[2019.03.23-02.58.28:582][759]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (510)
+[2019.03.23-02.58.28:582][759]LogModuleManager: Shutting down and abandoning module LocalizationService (509)
+[2019.03.23-02.58.28:583][759]LogModuleManager: Shutting down and abandoning module HardwareTargeting (506)
+[2019.03.23-02.58.28:583][759]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (504)
+[2019.03.23-02.58.28:583][759]LogModuleManager: Shutting down and abandoning module UndoHistory (502)
+[2019.03.23-02.58.28:583][759]LogModuleManager: Shutting down and abandoning module XmlParser (500)
+[2019.03.23-02.58.28:583][759]LogModuleManager: Shutting down and abandoning module Blutility (498)
+[2019.03.23-02.58.28:583][759]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (496)
+[2019.03.23-02.58.28:583][759]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (495)
+[2019.03.23-02.58.28:583][759]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (492)
+[2019.03.23-02.58.28:583][759]LogModuleManager: Shutting down and abandoning module SettingsEditor (490)
+[2019.03.23-02.58.28:583][759]LogModuleManager: Shutting down and abandoning module ProjectLauncher (488)
+[2019.03.23-02.58.28:583][759]LogModuleManager: Shutting down and abandoning module SessionFrontend (486)
+[2019.03.23-02.58.28:583][759]LogModuleManager: Shutting down and abandoning module ProfilerClient (484)
+[2019.03.23-02.58.28:583][759]LogModuleManager: Shutting down and abandoning module DeviceManager (482)
+[2019.03.23-02.58.28:583][759]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (481)
+[2019.03.23-02.58.28:638][759]LogModuleManager: Shutting down and abandoning module AutomationController (478)
+[2019.03.23-02.58.28:638][759]LogModuleManager: Shutting down and abandoning module AutomationWindow (476)
+[2019.03.23-02.58.28:638][759]LogModuleManager: Shutting down and abandoning module Layers (474)
+[2019.03.23-02.58.28:638][759]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (472)
+[2019.03.23-02.58.28:638][759]LogModuleManager: Shutting down and abandoning module DetailCustomizations (470)
+[2019.03.23-02.58.28:638][759]LogModuleManager: Shutting down and abandoning module PackagesDialog (468)
+[2019.03.23-02.58.28:638][759]LogModuleManager: Shutting down and abandoning module Persona (466)
+[2019.03.23-02.58.28:638][759]LogModuleManager: Shutting down and abandoning module AnimGraph (465)
+[2019.03.23-02.58.28:638][759]LogModuleManager: Shutting down and abandoning module Kismet (462)
+[2019.03.23-02.58.28:642][759]LogModuleManager: Shutting down and abandoning module GraphEditor (460)
+[2019.03.23-02.58.28:643][759]LogModuleManager: Shutting down and abandoning module ClassViewer (458)
+[2019.03.23-02.58.28:644][759]LogModuleManager: Shutting down and abandoning module Toolbox (456)
+[2019.03.23-02.58.28:644][759]LogModuleManager: Shutting down and abandoning module DesktopPlatform (455)
+[2019.03.23-02.58.28:644][759]LogModuleManager: Shutting down and abandoning module ModuleUI (452)
+[2019.03.23-02.58.28:644][759]LogModuleManager: Shutting down and abandoning module MovieSceneTools (450)
+[2019.03.23-02.58.28:644][759]LogModuleManager: Shutting down and abandoning module OutputLog (448)
+[2019.03.23-02.58.28:644][759]LogModuleManager: Shutting down and abandoning module GammaUI (446)
+[2019.03.23-02.58.28:644][759]LogModuleManager: Shutting down and abandoning module Documentation (444)
+[2019.03.23-02.58.28:644][759]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (442)
+[2019.03.23-02.58.28:644][759]LogModuleManager: Shutting down and abandoning module MovieScene (440)
+[2019.03.23-02.58.28:644][759]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (438)
+[2019.03.23-02.58.28:644][759]LogModuleManager: Shutting down and abandoning module LauncherPlatform (436)
+[2019.03.23-02.58.28:644][759]LogModuleManager: Shutting down and abandoning module AnalyticsET (434)
+[2019.03.23-02.58.28:644][759]LogModuleManager: Shutting down and abandoning module PortalServices (432)
+[2019.03.23-02.58.28:644][759]LogModuleManager: Shutting down and abandoning module PortalRpc (430)
+[2019.03.23-02.58.28:644][759]LogModuleManager: Shutting down and abandoning module MessagingRpc (428)
+[2019.03.23-02.58.28:644][759]LogModuleManager: Shutting down and abandoning module AIModule (426)
+[2019.03.23-02.58.28:644][759]LogModuleManager: Shutting down and abandoning module GameplayDebugger (425)
+[2019.03.23-02.58.28:644][759]LogModuleManager: Shutting down and abandoning module AITestSuite (423)
+[2019.03.23-02.58.28:644][759]LogModuleManager: Shutting down and abandoning module NavigationSystem (421)
+[2019.03.23-02.58.28:644][759]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (418)
+[2019.03.23-02.58.28:647][759]LogModuleManager: Shutting down and abandoning module ProfilerService (416)
+[2019.03.23-02.58.28:702][759]LogModuleManager: Shutting down and abandoning module TaskGraph (414)
+[2019.03.23-02.58.28:702][759]LogModuleManager: Shutting down and abandoning module DatasmithCADImporter (412)
+[2019.03.23-02.58.28:703][759]LogModuleManager: Shutting down and abandoning module VariantManager (410)
+[2019.03.23-02.58.28:703][759]LogModuleManager: Shutting down and abandoning module StaticMeshEditorExtension (408)
+[2019.03.23-02.58.28:703][759]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (407)
+[2019.03.23-02.58.28:703][759]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (406)
+[2019.03.23-02.58.28:703][759]LogModuleManager: Shutting down and abandoning module MeshProcessingLibrary (403)
+[2019.03.23-02.58.28:703][759]LogModuleManager: Shutting down and abandoning module MDLImporter (400)
+[2019.03.23-02.58.28:703][759]LogModuleManager: Shutting down and abandoning module DatasmithImporter (398)
+[2019.03.23-02.58.28:703][759]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (396)
+[2019.03.23-02.58.28:703][759]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (394)
+[2019.03.23-02.58.28:703][759]LogModuleManager: Shutting down and abandoning module OculusInput (392)
+[2019.03.23-02.58.28:703][759]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (390)
+[2019.03.23-02.58.28:703][759]LogModuleManager: Shutting down and abandoning module EditableMesh (388)
+[2019.03.23-02.58.28:703][759]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (386)
+[2019.03.23-02.58.28:703][759]LogModuleManager: Shutting down and abandoning module CableComponent (384)
+[2019.03.23-02.58.28:704][759]LogModuleManager: Shutting down and abandoning module AudioCapture (382)
+[2019.03.23-02.58.28:704][759]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (380)
+[2019.03.23-02.58.28:704][759]LogModuleManager: Shutting down and abandoning module AndroidPermission (378)
+[2019.03.23-02.58.28:704][759]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (376)
+[2019.03.23-02.58.28:704][759]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (374)
+[2019.03.23-02.58.28:704][759]LogModuleManager: Shutting down and abandoning module MediaCompositing (372)
+[2019.03.23-02.58.28:704][759]LogModuleManager: Shutting down and abandoning module LinearTimecode (370)
+[2019.03.23-02.58.28:704][759]LogModuleManager: Shutting down and abandoning module ImgMedia (368)
+[2019.03.23-02.58.28:707][759]LogModuleManager: Shutting down and abandoning module HTML5Networking (366)
+[2019.03.23-02.58.28:707][759]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (364)
+[2019.03.23-02.58.28:707][759]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (362)
+[2019.03.23-02.58.28:707][759]LogModuleManager: Shutting down and abandoning module BackChannel (360)
+[2019.03.23-02.58.28:707][759]LogModuleManager: Shutting down and abandoning module AppleVision (358)
+[2019.03.23-02.58.28:707][759]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (356)
+[2019.03.23-02.58.28:707][759]LogModuleManager: Shutting down and abandoning module AppleImageUtils (354)
+[2019.03.23-02.58.28:707][759]LogModuleManager: Shutting down and abandoning module AlembicImporter (352)
+[2019.03.23-02.58.28:707][759]LogModuleManager: Shutting down and abandoning module AlembicLibrary (351)
+[2019.03.23-02.58.28:707][759]LogModuleManager: Shutting down and abandoning module GeometryCache (350)
+[2019.03.23-02.58.28:707][759]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (349)
+[2019.03.23-02.58.28:707][759]LogModuleManager: Shutting down and abandoning module VariantManagerContent (344)
+[2019.03.23-02.58.28:707][759]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2019.03.23-02.58.28:707][759]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (340)
+[2019.03.23-02.58.28:707][759]LogModuleManager: Shutting down and abandoning module PluginBrowser (338)
+[2019.03.23-02.58.28:707][759]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (336)
+[2019.03.23-02.58.28:707][759]LogModuleManager: Shutting down and abandoning module PolygonModeling (334)
+[2019.03.23-02.58.28:707][759]LogModuleManager: Shutting down and abandoning module MeshEditor (332)
+[2019.03.23-02.58.28:707][759]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (330)
+[2019.03.23-02.58.28:707][759]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.03.23-02.58.28:707][759]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.03.23-02.58.28:707][759]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.03.23-02.58.28:707][759]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.03.23-02.58.28:707][759]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.03.23-02.58.28:707][759]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.03.23-02.58.28:707][759]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.03.23-02.58.28:707][759]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.03.23-02.58.28:708][759]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.03.23-02.58.28:708][759]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.03.23-02.58.28:708][759]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.03.23-02.58.28:708][759]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.03.23-02.58.28:708][759]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.03.23-02.58.28:708][759]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.03.23-02.58.28:708][759]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.03.23-02.58.28:708][759]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.03.23-02.58.28:708][759]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.03.23-02.58.28:708][759]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.03.23-02.58.28:708][759]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.03.23-02.58.28:708][759]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.03.23-02.58.28:708][759]LogModuleManager: Shutting down and abandoning module OculusEditor (286)
+[2019.03.23-02.58.28:708][759]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (284)
+[2019.03.23-02.58.28:708][759]LogModuleManager: Shutting down and abandoning module ActorSequence (282)
+[2019.03.23-02.58.28:708][759]LogModuleManager: Shutting down and abandoning module UdpMessaging (280)
+[2019.03.23-02.58.28:809][759]LogModuleManager: Shutting down and abandoning module TcpMessaging (278)
+[2019.03.23-02.58.28:910][759]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (276)
+[2019.03.23-02.58.28:910][759]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (274)
+[2019.03.23-02.58.28:910][759]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (272)
+[2019.03.23-02.58.28:910][759]LogModuleManager: Shutting down and abandoning module FacialAnimation (270)
+[2019.03.23-02.58.28:910][759]LogModuleManager: Shutting down and abandoning module DataValidation (268)
+[2019.03.23-02.58.28:910][759]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (266)
+[2019.03.23-02.58.28:910][759]LogModuleManager: Shutting down and abandoning module LevelEditor (265)
+[2019.03.23-02.58.28:910][759]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (264)
+[2019.03.23-02.58.28:910][759]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (262)
+[2019.03.23-02.58.28:911][759]LogModuleManager: Shutting down and abandoning module MainFrame (260)
+[2019.03.23-02.58.28:911][759]LogModuleManager: Shutting down and abandoning module HotReload (259)
+[2019.03.23-02.58.28:911][759]LogModuleManager: Shutting down and abandoning module ContentBrowser (255)
+[2019.03.23-02.58.28:912][759]LogModuleManager: Shutting down and abandoning module TreeMap (253)
+[2019.03.23-02.58.28:912][759]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (250)
+[2019.03.23-02.58.28:912][759]LogModuleManager: Shutting down and abandoning module AISupportModule (248)
+[2019.03.23-02.58.28:912][759]LogModuleManager: Shutting down and abandoning module Paper2D (246)
+[2019.03.23-02.58.28:912][759]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (244)
+[2019.03.23-02.58.28:912][759]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (242)
+[2019.03.23-02.58.28:912][759]LogModuleManager: Shutting down and abandoning module WmfMedia (240)
+[2019.03.23-02.58.28:927][759]LogModuleManager: Shutting down and abandoning module Media (239)
+[2019.03.23-02.58.28:934][759]LogModuleManager: Shutting down and abandoning module PacketHandler (236)
+[2019.03.23-02.58.28:934][759]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (234)
+[2019.03.23-02.58.28:934][759]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (232)
+[2019.03.23-02.58.28:934][759]LogModuleManager: Shutting down and abandoning module MediaAssets (230)
+[2019.03.23-02.58.28:934][759]LogModuleManager: Shutting down and abandoning module Overlay (228)
+[2019.03.23-02.58.28:934][759]LogModuleManager: Shutting down and abandoning module OverlayEditor (227)
+[2019.03.23-02.58.28:934][759]LogModuleManager: Shutting down and abandoning module VREditor (224)
+[2019.03.23-02.58.28:934][759]LogModuleManager: Shutting down and abandoning module StringTableEditor (222)
+[2019.03.23-02.58.28:934][759]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (220)
+[2019.03.23-02.58.28:934][759]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (218)
+[2019.03.23-02.58.28:935][759]LogModuleManager: Shutting down and abandoning module FunctionalTesting (216)
+[2019.03.23-02.58.28:935][759]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (214)
+[2019.03.23-02.58.28:935][759]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (213)
+[2019.03.23-02.58.28:935][759]LogModuleManager: Shutting down and abandoning module UMG (210)
+[2019.03.23-02.58.28:935][759]LogModuleManager: Shutting down and abandoning module UMGEditor (209)
+[2019.03.23-02.58.28:935][759]LogModuleManager: Shutting down and abandoning module Sequencer (208)
+[2019.03.23-02.58.28:935][759]LogModuleManager: Shutting down and abandoning module MessageLog (205)
+[2019.03.23-02.58.28:935][759]LogModuleManager: Shutting down and abandoning module SlateReflector (200)
+[2019.03.23-02.58.28:935][759]LogModuleManager: Shutting down and abandoning module Slate (198)
+[2019.03.23-02.58.28:935][759]LogModuleManager: Shutting down and abandoning module EditorStyle (196)
+[2019.03.23-02.58.28:936][759]LogModuleManager: Shutting down and abandoning module MRMesh (194)
+[2019.03.23-02.58.28:936][759]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (192)
+[2019.03.23-02.58.28:936][759]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (190)
+[2019.03.23-02.58.28:936][759]LogModuleManager: Shutting down and abandoning module XAudio2 (188)
+[2019.03.23-02.58.28:936][759]LogModuleManager: Shutting down and abandoning module Networking (186)
+[2019.03.23-02.58.28:936][759]LogModuleManager: Shutting down and abandoning module Core (184)
+[2019.03.23-02.58.28:936][759]LogModuleManager: Shutting down and abandoning module LevelSequence (182)
+[2019.03.23-02.58.28:936][759]LogModuleManager: Shutting down and abandoning module KismetCompiler (180)
+[2019.03.23-02.58.28:937][759]LogModuleManager: Shutting down and abandoning module MeshUtilities (178)
+[2019.03.23-02.58.28:937][759]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (177)
+[2019.03.23-02.58.28:937][759]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (176)
+[2019.03.23-02.58.28:937][759]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (175)
+[2019.03.23-02.58.28:937][759]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (173)
+[2019.03.23-02.58.28:937][759]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (171)
+[2019.03.23-02.58.28:937][759]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (169)
+[2019.03.23-02.58.28:937][759]LogModuleManager: Shutting down and abandoning module MaterialBaking (165)
+[2019.03.23-02.58.28:937][759]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (161)
+[2019.03.23-02.58.28:937][759]LogModuleManager: Shutting down and abandoning module DerivedDataCache (158)
+[2019.03.23-02.58.28:939][759]LogDerivedDataCache: Shutdown
+[2019.03.23-02.58.28:939][759]LogModuleManager: Shutting down and abandoning module XGEController (156)
+[2019.03.23-02.58.28:939][759]LogXGEController: Cleaning working directory: C:/Users/ruari/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.03.23-02.58.28:939][759]LogModuleManager: Shutting down and abandoning module TargetPlatform (154)
+[2019.03.23-02.58.28:939][759]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (153)
+[2019.03.23-02.58.28:939][759]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (151)
+[2019.03.23-02.58.28:939][759]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (149)
+[2019.03.23-02.58.28:939][759]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (147)
+[2019.03.23-02.58.28:939][759]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (145)
+[2019.03.23-02.58.28:939][759]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (143)
+[2019.03.23-02.58.28:939][759]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (141)
+[2019.03.23-02.58.28:939][759]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (139)
+[2019.03.23-02.58.28:939][759]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (137)
+[2019.03.23-02.58.28:940][759]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (135)
+[2019.03.23-02.58.28:940][759]LogModuleManager: Shutting down and abandoning module ImageWrapper (134)
+[2019.03.23-02.58.28:940][759]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (131)
+[2019.03.23-02.58.28:940][759]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (129)
+[2019.03.23-02.58.28:940][759]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (127)
+[2019.03.23-02.58.28:940][759]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (125)
+[2019.03.23-02.58.28:940][759]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (123)
+[2019.03.23-02.58.28:940][759]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (121)
+[2019.03.23-02.58.28:940][759]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (119)
+[2019.03.23-02.58.28:940][759]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2019.03.23-02.58.28:940][759]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (115)
+[2019.03.23-02.58.28:940][759]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (113)
+[2019.03.23-02.58.28:941][759]LogModuleManager: Shutting down and abandoning module Messaging (111)
+[2019.03.23-02.58.28:941][759]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (109)
+[2019.03.23-02.58.28:942][759]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (107)
+[2019.03.23-02.58.28:942][759]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (105)
+[2019.03.23-02.58.28:948][759]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (103)
+[2019.03.23-02.58.28:948][759]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (101)
+[2019.03.23-02.58.28:948][759]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (99)
+[2019.03.23-02.58.28:948][759]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (97)
+[2019.03.23-02.58.28:948][759]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (95)
+[2019.03.23-02.58.28:948][759]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (93)
+[2019.03.23-02.58.28:948][759]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (91)
+[2019.03.23-02.58.28:948][759]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (89)
+[2019.03.23-02.58.28:948][759]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (87)
+[2019.03.23-02.58.28:948][759]LogModuleManager: Shutting down and abandoning module InputCore (84)
+[2019.03.23-02.58.28:948][759]LogModuleManager: Shutting down and abandoning module Settings (82)
+[2019.03.23-02.58.28:948][759]LogModuleManager: Shutting down and abandoning module PhysXCooking (80)
+[2019.03.23-02.58.28:948][759]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.03.23-02.58.28:948][759]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.03.23-02.58.28:948][759]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.03.23-02.58.28:948][759]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.03.23-02.58.28:948][759]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.03.23-02.58.28:949][759]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.03.23-02.58.28:949][759]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.03.23-02.58.28:963][759]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.03.23-02.58.28:963][759]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.03.23-02.58.28:963][759]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFDC6CEA0-4FBC-2F5E-B988-7FBB72EBE396%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=64c89bfe473d28e15e616881ce46d761%7C4a2746e8ada5493184b027804fdf0320%7C67dac20e-fe2f-43a8-8ca6-3f68a7554fe0&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.03.23-02.58.28:978][759]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.03.23-02.58.28:981][759]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.03.23-02.58.28:981][759]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.03.23-02.58.28:981][759]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.03.23-02.58.28:981][759]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.03.23-02.58.28:981][759]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.03.23-02.58.28:982][759]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.03.23-02.58.28:982][759]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.03.23-02.58.28:982][759]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.03.23-02.58.28:982][759]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.03.23-02.58.28:982][759]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.03.23-02.58.28:982][759]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.03.23-02.58.28:982][759]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.03.23-02.58.28:983][759]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.03.23-02.58.28:983][759]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.03.23-02.58.28:983][759]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.03.23-02.58.28:983][759]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.03.23-02.58.28:983][759]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.03.23-02.58.28:983][759]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.03.23-02.58.28:984][759]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.03.23-02.58.28:984][759]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.03.23-02.58.28:984][759]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.03.23-02.58.28:984][759]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.03.23-02.58.28:984][759]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.03.23-02.58.28:984][759]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.03.23-02.58.28:984][759]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.03.23-02.58.28:984][759]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.03.23-02.58.28:984][759]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.03.23-02.58.28:984][759]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.03.23-02.58.28:993][759]LogExit: Exiting.
+[2019.03.23-02.58.29:005][759]Log file closed, 03/23/19 02:58:29

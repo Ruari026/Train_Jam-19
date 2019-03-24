@@ -25,8 +25,13 @@ public:
 		float railSpeeds[3];
 	void SetDecorationRail();
 
+	//Randomising Visuals
+	UFUNCTION(BlueprintImplementableEvent)
+		void RandomiseDecorationMaterial();
+
 	//Handling the decoration movement
-	float moveSpeed;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		float moveSpeed;
 	void MoveDecorationAlongRail(float deltaTime);
 
 

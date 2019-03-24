@@ -2,34 +2,69 @@
 
 #pragma once
 
-#include "Engine/World.h"
-#include "CoreMinimal.h"
-#include "GameFramework/Actor.h"
 #include "BackgroundDecorationScript.h"
+#include "PlayerRhythmController.h"
+
+#include "CoreMinimal.h"
+#include "GameFramework/Pawn.h"
 #include "SceneController.generated.h"
 
+UENUM(BlueprintType)
+enum class GameState : uint8
+{
+	MENU,
+	RHYTHM,
+	PAUSED
+};
+
 UCLASS()
-class TRAINJAM_API ASceneController : public AActor
+class TRAINJAM_API ASceneController : public APawn
 {
 	GENERATED_BODY()
-	
-public:	
-	// Sets default values for this actor's properties
+
+public:
+	// Sets default values for this pawn's properties
 	ASceneController();
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
+	// Called to bind functionality to input
+	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
-	//Handling Spawning Decorations
-	//Spawn Timer
+	//Controlling the game state
+	GameState currentGameState;
+	UFUNCTION(BlueprintCallable)
+		void SetGameState(GameState newGameState);
+	
+	//Controlling the player camera
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-		float decorationTimerMax;
+		FVector zoomedInPos;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-		float decorationTimerMin;
+		FRotator zoomedInRot;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-		float decorationTimerCurrent;
-	//Spawning Prefab
+		FVector zoomedOutPos;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-	TSubclassOf<AActor> decorationPrefab;
+		FRotator zoomedOutRot;
+	bool isZoomedIn = true;
+	
+	UFUNCTION(BlueprintCallable)
+		void ZoomCamera();
+
+	//Spawning Scene Decorations
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		TSubclassOf<ABackgroundDecorationScript> backgroundDecorationPrefab;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		float maxSpawnTimer;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		float minSpawnTimer;
+	float currentSpawnTimer;
+	bool spawningDecorations;
+	void RunDecorationSpawnTimer(float deltaTime);
+
+	//Controlling the rhythm controller
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		APlayerRhythmController* theRhythmController;
+	UFUNCTION(BlueprintCallable)
+		APlayerRhythmController* GetPlayerRhythmController();
 
 
 protected:

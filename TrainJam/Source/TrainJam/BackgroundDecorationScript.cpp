@@ -14,7 +14,7 @@ ABackgroundDecorationScript::ABackgroundDecorationScript()
 void ABackgroundDecorationScript::BeginPlay()
 {
 	Super::BeginPlay();
-	this->SetDecorationRail();
+	//this->SetDecorationRail();
 	
 }
 
@@ -43,8 +43,6 @@ void ABackgroundDecorationScript::SetDecorationRail()
 
 	//Setting the relevant move speed
 	moveSpeed = railSpeeds[r];
-
-	//Setting a relevant texture
 }
 
 
