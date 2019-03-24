@@ -111,7 +111,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{BB7B0577-06C2-46FA-9227-4923638364CD}</ProjectGuid>
+    <ProjectGuid>{2C4182AD-6EBF-45F3-8B24-8B01F098ECDA}</ProjectGuid>
     <Keyword>MakeFileProj</Keyword>
     <RootNamespace>TrainJam</RootNamespace>
     <PlatformToolset>v141</PlatformToolset>
@@ -509,6 +509,8 @@
     <ClInclude Include="..\..\Source\TrainJam\BackgroundDecorationScript.h"/>
     <ClCompile Include="..\..\Source\TrainJam\PlayerRhythmController.cpp"/>
     <ClInclude Include="..\..\Source\TrainJam\PlayerRhythmController.h"/>
+    <ClCompile Include="..\..\Source\TrainJam\RhythmNoteScript.cpp"/>
+    <ClInclude Include="..\..\Source\TrainJam\RhythmNoteScript.h"/>
     <ClCompile Include="..\..\Source\TrainJam\SceneController.cpp"/>
     <ClInclude Include="..\..\Source\TrainJam\SceneController.h"/>
     <None Include="..\..\Source\TrainJam\TrainJam.Build.cs"/>

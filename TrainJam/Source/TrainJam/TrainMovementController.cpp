@@ -22,5 +22,13 @@ void ATrainMovementController::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
+	if (canMove)
+	{
+		currentMovementSpeed += DeltaTime * 150;
+		if (currentMovementSpeed > maxMovementSpeed)
+		{
+			currentMovementSpeed = maxMovementSpeed;
+		}
+	}
 }
 

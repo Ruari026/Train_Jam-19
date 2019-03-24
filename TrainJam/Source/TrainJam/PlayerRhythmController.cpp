@@ -22,6 +22,21 @@ void APlayerRhythmController::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
+	if (isPlaying)
+	{
+		currentTime += DeltaTime;
+
+		if (nextSpawn < spawnTimes.Num())
+
+		if (currentTime >= spawnTimes[nextSpawn])
+		{
+			ARhythmNoteScript* newActor = GetWorld()->SpawnActor<ARhythmNoteScript>(rhythmNotePrefab);
+			newActor->SetArrowType(spawnArrows[nextSpawn]);
+			newActor->Spawningarrow();
+
+			nextSpawn++;
+		}
+	}
 }
 
 
@@ -32,5 +47,11 @@ Player Input
 */
 void APlayerRhythmController::PlayerInput(FString direction)
 {
+	inputType = direction;
+	InputEvent();
+}
 
+FString APlayerRhythmController::GetInputType()
+{
+	return inputType;
 }

@@ -2,6 +2,8 @@
 
 #pragma once
 
+#include "TrainMovementController.h"
+
 #include "Engine.h"
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
@@ -12,27 +14,24 @@ class TRAINJAM_API ABackgroundDecorationScript : public AActor
 {
 	GENERATED_BODY()
 	
+
 public:	
 	// Sets default values for this actor's properties
 	ABackgroundDecorationScript();
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
-	//Handling Setting The Spawn Position & Move Speed
+	//Getting Train Information
 	UPROPERTY(EditAnywhere)
-		FVector railStartPoints[3];
-	UPROPERTY(EditAnywhere)
-		float railSpeeds[3];
-	void SetDecorationRail();
+		ATrainMovementController* theTrain;
 
 	//Randomising Visuals
 	UFUNCTION(BlueprintImplementableEvent)
 		void RandomiseDecorationMaterial();
 
 	//Handling the decoration movement
-	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-		float moveSpeed;
 	void MoveDecorationAlongRail(float deltaTime);
+	bool canMove;
 
 
 protected:

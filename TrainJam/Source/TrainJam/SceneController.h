@@ -2,6 +2,7 @@
 
 #pragma once
 
+#include "TrainMovementController.h"
 #include "BackgroundDecorationScript.h"
 #include "PlayerRhythmController.h"
 
@@ -34,7 +35,13 @@ public:
 	GameState currentGameState;
 	UFUNCTION(BlueprintCallable)
 		void SetGameState(GameState newGameState);
+	UFUNCTION(BlueprintCallable)
+		void StartGame();
 	
+	//Handling train controller
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		ATrainMovementController* theTrain;
+
 	//Controlling the player camera
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 		FVector zoomedInPos;
@@ -44,20 +51,23 @@ public:
 		FVector zoomedOutPos;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 		FRotator zoomedOutRot;
-	bool isZoomedIn = true;
-	
 	UFUNCTION(BlueprintCallable)
-		void ZoomCamera();
+		void ZoomCamera(bool zoomingIn);
 
 	//Spawning Scene Decorations
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-		TSubclassOf<ABackgroundDecorationScript> backgroundDecorationPrefab;
+		TSubclassOf<ABackgroundDecorationScript> background1DecorationPrefab;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		TSubclassOf<ABackgroundDecorationScript> background2DecorationPrefab;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		TSubclassOf<ABackgroundDecorationScript> background3DecorationPrefab;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 		float maxSpawnTimer;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 		float minSpawnTimer;
 	float currentSpawnTimer;
-	bool spawningDecorations;
+	UPROPERTY(EditAnywhere)
+		FVector railStartPoints[3];
 	void RunDecorationSpawnTimer(float deltaTime);
 
 	//Controlling the rhythm controller
@@ -66,6 +76,9 @@ public:
 	UFUNCTION(BlueprintCallable)
 		APlayerRhythmController* GetPlayerRhythmController();
 
+	//Other
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		ABackgroundDecorationScript* startStation;
 
 protected:
 	// Called when the game starts or when spawned

@@ -15,7 +15,7 @@ enum class GameState : uint8;
 #endif
 #define TRAINJAM_SceneController_generated_h
 
-#define TrainJam_Source_TrainJam_SceneController_h_23_RPC_WRAPPERS \
+#define TrainJam_Source_TrainJam_SceneController_h_24_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execGetPlayerRhythmController) \
 	{ \
@@ -27,9 +27,18 @@ enum class GameState : uint8;
  \
 	DECLARE_FUNCTION(execZoomCamera) \
 	{ \
+		P_GET_UBOOL(Z_Param_zoomingIn); \
 		P_FINISH; \
 		P_NATIVE_BEGIN; \
-		P_THIS->ZoomCamera(); \
+		P_THIS->ZoomCamera(Z_Param_zoomingIn); \
+		P_NATIVE_END; \
+	} \
+ \
+	DECLARE_FUNCTION(execStartGame) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->StartGame(); \
 		P_NATIVE_END; \
 	} \
  \
@@ -43,7 +52,7 @@ enum class GameState : uint8;
 	}
 
 
-#define TrainJam_Source_TrainJam_SceneController_h_23_RPC_WRAPPERS_NO_PURE_DECLS \
+#define TrainJam_Source_TrainJam_SceneController_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execGetPlayerRhythmController) \
 	{ \
@@ -55,9 +64,18 @@ enum class GameState : uint8;
  \
 	DECLARE_FUNCTION(execZoomCamera) \
 	{ \
+		P_GET_UBOOL(Z_Param_zoomingIn); \
 		P_FINISH; \
 		P_NATIVE_BEGIN; \
-		P_THIS->ZoomCamera(); \
+		P_THIS->ZoomCamera(Z_Param_zoomingIn); \
+		P_NATIVE_END; \
+	} \
+ \
+	DECLARE_FUNCTION(execStartGame) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->StartGame(); \
 		P_NATIVE_END; \
 	} \
  \
@@ -71,7 +89,7 @@ enum class GameState : uint8;
 	}
 
 
-#define TrainJam_Source_TrainJam_SceneController_h_23_INCLASS_NO_PURE_DECLS \
+#define TrainJam_Source_TrainJam_SceneController_h_24_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesASceneController(); \
 	friend struct Z_Construct_UClass_ASceneController_Statics; \
@@ -80,7 +98,7 @@ public: \
 	DECLARE_SERIALIZER(ASceneController)
 
 
-#define TrainJam_Source_TrainJam_SceneController_h_23_INCLASS \
+#define TrainJam_Source_TrainJam_SceneController_h_24_INCLASS \
 private: \
 	static void StaticRegisterNativesASceneController(); \
 	friend struct Z_Construct_UClass_ASceneController_Statics; \
@@ -89,7 +107,7 @@ public: \
 	DECLARE_SERIALIZER(ASceneController)
 
 
-#define TrainJam_Source_TrainJam_SceneController_h_23_STANDARD_CONSTRUCTORS \
+#define TrainJam_Source_TrainJam_SceneController_h_24_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API ASceneController(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ASceneController) \
@@ -102,7 +120,7 @@ private: \
 public:
 
 
-#define TrainJam_Source_TrainJam_SceneController_h_23_ENHANCED_CONSTRUCTORS \
+#define TrainJam_Source_TrainJam_SceneController_h_24_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API ASceneController(ASceneController&&); \
@@ -113,26 +131,26 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ASceneController); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(ASceneController)
 
 
-#define TrainJam_Source_TrainJam_SceneController_h_23_PRIVATE_PROPERTY_OFFSET
-#define TrainJam_Source_TrainJam_SceneController_h_20_PROLOG
-#define TrainJam_Source_TrainJam_SceneController_h_23_GENERATED_BODY_LEGACY \
+#define TrainJam_Source_TrainJam_SceneController_h_24_PRIVATE_PROPERTY_OFFSET
+#define TrainJam_Source_TrainJam_SceneController_h_21_PROLOG
+#define TrainJam_Source_TrainJam_SceneController_h_24_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	TrainJam_Source_TrainJam_SceneController_h_23_PRIVATE_PROPERTY_OFFSET \
-	TrainJam_Source_TrainJam_SceneController_h_23_RPC_WRAPPERS \
-	TrainJam_Source_TrainJam_SceneController_h_23_INCLASS \
-	TrainJam_Source_TrainJam_SceneController_h_23_STANDARD_CONSTRUCTORS \
+	TrainJam_Source_TrainJam_SceneController_h_24_PRIVATE_PROPERTY_OFFSET \
+	TrainJam_Source_TrainJam_SceneController_h_24_RPC_WRAPPERS \
+	TrainJam_Source_TrainJam_SceneController_h_24_INCLASS \
+	TrainJam_Source_TrainJam_SceneController_h_24_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define TrainJam_Source_TrainJam_SceneController_h_23_GENERATED_BODY \
+#define TrainJam_Source_TrainJam_SceneController_h_24_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	TrainJam_Source_TrainJam_SceneController_h_23_PRIVATE_PROPERTY_OFFSET \
-	TrainJam_Source_TrainJam_SceneController_h_23_RPC_WRAPPERS_NO_PURE_DECLS \
-	TrainJam_Source_TrainJam_SceneController_h_23_INCLASS_NO_PURE_DECLS \
-	TrainJam_Source_TrainJam_SceneController_h_23_ENHANCED_CONSTRUCTORS \
+	TrainJam_Source_TrainJam_SceneController_h_24_PRIVATE_PROPERTY_OFFSET \
+	TrainJam_Source_TrainJam_SceneController_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
+	TrainJam_Source_TrainJam_SceneController_h_24_INCLASS_NO_PURE_DECLS \
+	TrainJam_Source_TrainJam_SceneController_h_24_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

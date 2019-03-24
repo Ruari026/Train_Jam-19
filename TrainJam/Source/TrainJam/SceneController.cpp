@@ -26,7 +26,10 @@ void ASceneController::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
-	RunDecorationSpawnTimer(DeltaTime);
+	if (currentGameState == GameState::RHYTHM)
+	{
+		RunDecorationSpawnTimer(DeltaTime);
+	}
 }
 
 
@@ -40,23 +43,30 @@ void ASceneController::SetGameState(GameState newGameState)
 	currentGameState = newGameState;
 }
 
+void ASceneController::StartGame()
+{
+	currentGameState = GameState::RHYTHM;
+	theTrain->canMove = true;
+	theRhythmController->isPlaying = true;
+
+	ZoomCamera(false);
+}
+
 
 /*
 ====================================================================================================
 Controlling The Player Camera
 ====================================================================================================
 */
-void ASceneController::ZoomCamera()
+void ASceneController::ZoomCamera(bool zoomingIn)
 {
-	if (isZoomedIn)
+	if (zoomingIn)
 	{
-		this->SetActorLocationAndRotation(zoomedOutPos, zoomedOutRot);
-		isZoomedIn = false;
+		this->SetActorLocationAndRotation(zoomedInPos, zoomedInRot);
 	}
 	else
 	{
-		this->SetActorLocationAndRotation(zoomedInPos, zoomedInRot);
-		isZoomedIn = true;
+		this->SetActorLocationAndRotation(zoomedOutPos, zoomedOutRot);
 	}
 }
 
@@ -81,9 +91,37 @@ void ASceneController::RunDecorationSpawnTimer(float deltaTime)
 {
 	if (currentSpawnTimer <= 0)
 	{
-		ABackgroundDecorationScript* newPrefab = GetWorld()->SpawnActor<ABackgroundDecorationScript>(backgroundDecorationPrefab);
-		newPrefab->SetDecorationRail();
-		newPrefab->RandomiseDecorationMaterial();
+		int r = FMath::RandRange(0, 2);
+		switch (r)
+		{
+			case(0):
+			{
+				ABackgroundDecorationScript* newPrefab = GetWorld()->SpawnActor<ABackgroundDecorationScript>(background1DecorationPrefab);
+				newPrefab->RandomiseDecorationMaterial();
+				newPrefab->SetActorLocation(railStartPoints[r]);
+				newPrefab->theTrain = this->theTrain;
+			}
+			break;
+
+			case(1):
+			{
+				ABackgroundDecorationScript* newPrefab = GetWorld()->SpawnActor<ABackgroundDecorationScript>(background2DecorationPrefab);
+				newPrefab->RandomiseDecorationMaterial();
+				newPrefab->SetActorLocation(railStartPoints[r]);
+				newPrefab->theTrain = this->theTrain;
+			}
+			break;
+
+			case(2):
+			{
+				ABackgroundDecorationScript* newPrefab = GetWorld()->SpawnActor<ABackgroundDecorationScript>(background3DecorationPrefab);
+				newPrefab->RandomiseDecorationMaterial();
+				newPrefab->SetActorLocation(railStartPoints[r]);
+				newPrefab->theTrain = this->theTrain;
+			}
+			break;
+		}
+		
 
 		currentSpawnTimer = FMath::RandRange(minSpawnTimer, maxSpawnTimer);
 	}
